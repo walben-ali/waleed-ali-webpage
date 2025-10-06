@@ -1,0 +1,26 @@
+# Waleed A A Ali
+
+::: {.img-float}
+![](images/Profile.jpg){style="float: left; margin: 5px;" width=50%}
+:::
+
+I am Waleed Ali, a Lecturer in the Department of Mathematical Sciences in the University of Bath.  I am an applied mathematician, with a PhD in *Hydrodynamic Stability Theory* and *Fluid Dynamics*.  Currently my interests lie in *Mathematics Pedagogy and Educational Practices*.
+
+I am a part of the Mathematics Education [PRiME](https://prime-bath.github.io/PRiME/) group in Bath where we focus our efforts on disseminating effective teaching practices and ways of making students in higher education more engaged.
+
+<br><br><br><br><br><br>
+
+## Research Interests
+
+
+## Administrative Roles in the Univeristy of Bath
+
+- **Outreach & Widening Participation Officer**:  I run the Maths Department's outreach team where we give talks, run workshops and activities in Science festivals or local state schools.
+
+- **HEA Champion**:  I am the HEA representative of the Maths Department responsible for mentoring and advising Maths staff wishing to apply for HEA fellowship as well as being an HEA a reviewer.
+
+- **Peer Mentoring Coordinator**:  I run the Maths department's peer mentoring scheme where Y2 and Y3 are matched up with new Y1 students to help advise them and act as a point of contact who are closer to them in age and experience.
+
+- **Discover Bath Coordinator**:  Every year, the department hosts students from across the country where we run a 3-day maths workshop, helping to inspire students to pursue maths as an educational path in their future.
+
+---

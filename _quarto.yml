@@ -1,0 +1,65 @@
+project:
+     type: website
+     output-dir: "docs"
+     preview: 
+          port: 22222
+          browser: true
+          watch-inputs: true
+          navigate: true
+
+website:
+     title: "Waleed A A Ali"
+     site-url: https://
+     description: "Waleed Ali's Personal Website"
+     open-graph: true
+     navbar:
+          pinned: true
+          left:
+               - text: History
+                 href: History.qmd
+               - text: Teaching
+                 href: Teaching.qmd
+               - text: Talks
+                 href: Talks.qmd
+               - text: Projects
+                 href: Projects.qmd
+               - text: HEA
+                 href: HEA_Bath.qmd
+          right: 
+               - text: "![](images/Bath-Icon.png)"
+                 href: https://researchportal.bath.ac.uk/en/persons/waleed-ali
+               - icon: envelope
+                 href: mailto:w.a.a.ali@bath.ac.uk
+               - icon: linkedin
+                 href: https://www.linkedin.com/in/waleed-ali-b4a57511b/
+               - icon: instagram
+                 href: https://www.instagram.com/walben.ali/?__pwa=1
+     page-footer: 
+          left: "Department of Mathematical Sciences <br> Univeristy of Bath" 
+          border: false
+          right: | 
+            ![](images/Bath-Logo.png){width=25%}
+     search: 
+          location: navbar
+          type: textbox
+#     back-to-top-navigation: true
+
+format:
+     html:
+          theme:
+               light: [flatly,style.scss]
+               dark: [darkly,style.scss]
+          respect-user-color-scheme: true
+          css: style.scss
+          mainfont: 'Calisto MT'
+          fontsize: 1rem
+          page-layout: full
+          code-link: true
+          anchor-sections: true
+          fig-cap-location: margin
+          reference-location: margin
+          footnotes-hover: true
+#          include-in-header:
+#               - toggle.js
+
+editor: source

@@ -1,0 +1,29 @@
+/* Apply font to the whole site */
+body {
+     font-family: 'Calisto MT', serif;
+}
+
+/* Navbar background and text color */
+.navbar {
+  background-color: #340154;
+  color: #ffffff;
+}
+
+/* Navbar links */
+.navbar a {
+  color: #ffffff;
+}
+
+/* Hover effect for links */
+.navbar a:hover {
+  color: #cccccc;
+}
+
+/* custom.scss */
+a {
+  color: #0077cc; /* Normal link color */
+}
+
+a:hover {
+  color: #ff6600; /* Hover color */
+}

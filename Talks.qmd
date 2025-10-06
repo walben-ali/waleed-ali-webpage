@@ -1,0 +1,27 @@
+# Talks & Seminars
+
+After my PhD, most of the talks I have been involved in have either been related to mathematics education or are talks of general public interest and pop culture.
+
+## Mathematics Education
+
+- Differences in Educational Practices in the Sciences & Social Sciences (*PoLIS, UoB*)
+
+## Pop Culture & General Interest
+
+- The Earth is not Flat:  Proof by Pizza (*Cardiff Science Café*)
+- Quantification of Pizza Baking Properties of Different Cheeses and their Correlation with Cheese Functionality (*Cardiff PGR Symposia*)
+- The Science of Star Wars (*Cardiff PGR Symposia*; *Techniquest Star Wars Day*; *Cardiff Science Café*)
+- Will we Survive the Zombie Apocalypse? (*Cardiff and Bath PGR Symposia*)
+- Why Superpowers are Impossible (*Cardiff PGR Symposia*; *UoB Maths Society*)
+- Is Maths Invented or Discovered? (*UoB Philosophy Society*)
+- What is the Biggest Number? (*Cardiff PGR Symposia*)
+
+## Outreach
+
+- Outreach Outside of Higher Education (*SAMBa Conference, Bath*)
+
+## Fluid Dyanmics & Hyrdodynamic Stability Seminars
+
+- Gregynog Mathematics Colloquium (Gregynog Hall, Tregynon)
+- $11^{\mathrm{th}}$ European Fluid Mechanics Conference (Seville, Spain)
+- $50^{\mathrm{th}}$ British Applied Mathematics Colloquium (Cambridge, UK)

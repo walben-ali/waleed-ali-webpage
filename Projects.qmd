@@ -1,0 +1,17 @@
+# Student Projects
+
+I am open to accepting Y3 students willing to do a [Final Year BSc Project](https://www.bath.ac.uk/catalogues/2025-2026/ma/MA32050.html) in the [following topics](Project_Desc.qmd).
+
+I am also open to accepting [MMath](https://www.bath.ac.uk/catalogues/2025-2026/ma/MA40249.html) projects with a topic up for discussion.
+
+## BSc Projects
+
+* A Brief Overview of Special Functions and Their Applications in Mathematics and Beyond, **Emilia Lewis**, *2022*
+
+* Approximate Methods for Solving Ordinary Differential Equations, **Andrea Zhang**, *2023*
+
+* The Lorenz System and Applications of Chaos, **Samuel Hancock**, *2024*
+
+## MMath Projects
+
+* Mathematical Modelling of Issues in the Department for Education, **Addie Baker**, *2025*

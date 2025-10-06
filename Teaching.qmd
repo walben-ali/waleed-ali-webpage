@@ -1,0 +1,32 @@
+# Current & Previous Teaching
+
+## ![](images/Bath-Logo2.png){width=100px} University of Bath
+
+- **Department of Mathematical Sciences**:
+     + Y1:  Analysis 1B
+     + Y1:  Foundation & Connections
+     + Y2:  Ordinary Differential Equations & Control Theory
+     + Y2:  Modelling & Dynamical Systems
+     + Y3:  Mathematics of Planet Earth
+     + Y3:  Communicating Maths
+     + MSc:  Mathematical Modelling for Industry
+     + PhD:  Topics in Applied Computation
+     + [TCC](https://www.maths.ox.ac.uk/groups/tcc/tcc-current-courses):  Numerical Solutions to Differential Equations
+
+- **Department of Chemical Engineering**:
+     + Y1:  Science & Mathematics for Chemical Engineering
+     + Y2:  Process Dynamics, Modelling & Control
+     + Y3:  Advanced Mathematical Methods
+
+- **Department of Natural Sciences**:
+     + Y1:  Natural Sciences Portfolio
+     + Y2:  Mathematical & Statistical Methods for the Life Sciences
+
+## ![](images/Cardiff-Logo.png){width=100px} Cardiff Univeristy
+
+- **School of Mathematics**:
+     + Y2:  Vector Calculus
+     + Y1:  TA for Algebra 1, Analysis 1, Analysis 2, Geometry, Statistical Inference, Elementary Number Theory
+
+- **School of Biosciences**:
+     + Y1:  Preliminary Mathematics & Statistics for the Life Sciences

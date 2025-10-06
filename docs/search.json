@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Current & Previous Teaching",
+    "section": "",
+    "text": "Department of Mathematical Sciences:\n\nY1: Analysis 1B\nY1: Foundation & Connections\nY2: Ordinary Differential Equations & Control Theory\nY2: Modelling & Dynamical Systems\nY3: Mathematics of Planet Earth\nY3: Communicating Maths\nMSc: Mathematical Modelling for Industry\nPhD: Topics in Applied Computation\nTCC: Numerical Solutions to Differential Equations\n\nDepartment of Chemical Engineering:\n\nY1: Science & Mathematics for Chemical Engineering\nY2: Process Dynamics, Modelling & Control\nY3: Advanced Mathematical Methods\n\nDepartment of Natural Sciences:\n\nY1: Natural Sciences Portfolio\nY2: Mathematical & Statistical Methods for the Life Sciences\n\n\n\n\n\n\nSchool of Mathematics:\n\nY2: Vector Calculus\nY1: TA for Algebra 1, Analysis 1, Analysis 2, Geometry, Statistical Inference, Elementary Number Theory\n\nSchool of Biosciences:\n\nY1: Preliminary Mathematics & Statistics for the Life Sciences"
+  },
+  {
+    "objectID": "Teaching.html#university-of-bath",
+    "href": "Teaching.html#university-of-bath",
+    "title": "Current & Previous Teaching",
+    "section": "",
+    "text": "Department of Mathematical Sciences:\n\nY1: Analysis 1B\nY1: Foundation & Connections\nY2: Ordinary Differential Equations & Control Theory\nY2: Modelling & Dynamical Systems\nY3: Mathematics of Planet Earth\nY3: Communicating Maths\nMSc: Mathematical Modelling for Industry\nPhD: Topics in Applied Computation\nTCC: Numerical Solutions to Differential Equations\n\nDepartment of Chemical Engineering:\n\nY1: Science & Mathematics for Chemical Engineering\nY2: Process Dynamics, Modelling & Control\nY3: Advanced Mathematical Methods\n\nDepartment of Natural Sciences:\n\nY1: Natural Sciences Portfolio\nY2: Mathematical & Statistical Methods for the Life Sciences"
+  },
+  {
+    "objectID": "Teaching.html#cardiff-univeristy",
+    "href": "Teaching.html#cardiff-univeristy",
+    "title": "Current & Previous Teaching",
+    "section": "",
+    "text": "School of Mathematics:\n\nY2: Vector Calculus\nY1: TA for Algebra 1, Analysis 1, Analysis 2, Geometry, Statistical Inference, Elementary Number Theory\n\nSchool of Biosciences:\n\nY1: Preliminary Mathematics & Statistics for the Life Sciences"
+  },
+  {
+    "objectID": "Project_Desc.html",
+    "href": "Project_Desc.html",
+    "title": "BSc Final Year Project Proposals",
+    "section": "",
+    "text": "BSc Final Year Project Proposals\n\nRandom Quadrature\n\n\n\n\n\n\nDetails\n\n\n\n\n\nPre-Requisite Units:\n\nMA22037 Numerical Analysis\n\nRecommended Pre-Requisite Units:\n\nMA22032 Analysis 2A\n\nPre-Requisite Knowledge: Coding in Python or MATLAB\nProject Description:\nIn this project, you will investigate how randomness can be incorporated into quadrature methods.\nFor example, consider the rectangle rule for quadrature, the points are usually evenly spaced across the domain of integration. To improve the accuracy, three things can be done: either more points need to be considered, a higher order method is needed (like trapezium or Simpson’s) or the points need to be distributed differently. Suppose that the points are now randomly distributed across the domain and the rectangle rule is performed. Would choosing a random set of point with a lower order method across several iterations be better than a higher order method once? What are the advantages of using the random points over equally spaced points? Is there a probability distribution that is better than others?\nThis project will investigate and study different probability distributions and analyse the difference in their performance compared to one another and compared to higher order methods.\nThis project will require a good base knowledge of numerical computations and coding (in Python or MATLAB) and a good understanding of the convergence of quadrature methods.\n\n\n\n\n\n\nCollocation Methods\n\n\n\n\n\n\nDetails\n\n\n\n\n\nPre-Requisite Units:\n\nMA22037 Numerical Analysis\n\nPre-Requisite Knowledge: Coding in MATLAB or Python\nProject Description:\nIn this project, you will use different collocation methods to solve some differential and integral equations.\nConsider a differential or integral equation that is difficult to solve explicitly. One way of solving it would be by assuming that the general solution takes the form of an infinite polynomial (a Taylor series), and the coefficients can be found recursively. What if the solution was assumed to be a linear combination of Legendre polynomials instead, or Chebyshev polynomials, would the series solution converge to the exact solution quicker? Are there advantages to using one set of orthogonal polynomials compared to others? Does a set of polynomials have more desirable properties compared to others?\nThis process will be used to find solutions to differential and integral equations both analytically and will be numerically verified.\n\n\n\n\n\n\nThe Gamma Function\n\n\n\n\n\n\nDetails\n\n\n\n\n\nPre-Requisite Units:\n\nMA22032 Analysis 2A\nMA22323 Analysis 2B\n\nPre-Requisite Knowledge: Asymptotic Methods\nProject Description:\nIn this project, you will investigate the different forms of the Gamma function in mathematical and historical contexts.\nThe Gamma function has several forms, each with their own unique properties and applications. The Gamma function can be defined in terms of integrals, Mellin transformation, limits, factorials, double factorials, trigonometric functions, infinite products, asymptotic approximations, complex residues and many other forms. This project will aim to understand and derive some of these forms and attempt to form a connection between them, factoring in their uses and historical context in the development of the Gamma function.\n\n\n\n\n\n\nFluid Dynamics & Generation of Lift\n\n\n\n\n\n\nDetails\n\n\n\n\n\nPre-Requisite Units:\n\nMA22016 Differential Equations & Vector Calculus\nMA22021 Partial Differential Equations\nMA32051 Fluid Dynamics\n\nProject Description:\nIn this project, you will introduce the basic principles of fluid dynamics and flow profiles, deriving them from the momentum equations and reproducing the Navier-Stokes equations.\nThis project will attempt to derive the Navier-Stokes equations from the governing equations of fluid flow. This will then be restricted into specific profiles, such as the Poiseuille or Blasius boundary layer flows in different domains. Bernoulli’s pressure equations will be derived to establish pressure differences in flow profiles and that will lead to flow domain that could generate lift.\n\n\n\n\n\n\nTheory of Contunued Fractions\n\n\n\n\n\n\nDetails\n\n\n\n\n\nPre-Requisite Units:\n\nMA32064 Number Theory & Cryptography\n\nRecommended Pre-Requisite Units:\n\nMA22020 Advanced Linear Algebra\n\nProject Description:\nIn this project, you will establish the theory of continued fractions and investigate their properties.\nThis will project cover the general theory of continued fractions, investigate the convergence properties, how to generate the fractions themselves and demonstrate some examples, both in typical and atypical form. For example, the irrational number \\(\\pi\\) can be written in many different continued fraction forms: \\[\\pi=3+\\frac{1}{7+\\frac{1}{15+\\frac{1}{292+\\frac{1}{1+\\frac{1}{1+\\frac{1}{1+\\frac{1}{2+...}}}}}}}, \\quad \\pi=3+\\frac{1^2}{6+\\frac{3^2}{6+\\frac{5^2}{6+\\frac{7^2}{6+\\frac{9^2}{6+\\frac{11^2}{6+...}}}}}}, \\quad \\pi=\\frac{4}{1+\\frac{1^2}{3+\\frac{2^2}{5+\\frac{3^3}{7+\\frac{4^2}{9+\\frac{4^2}{11+...}}}}}}, \\quad \\pi=\\frac{4}{1+\\frac{1^2}{2+\\frac{3^2}{2+\\frac{5^2}{2+\\frac{7^2}{2+\\frac{9^2}{2+}}}}}}\\] These different forms will be investigated, their convergence studied and the different ways in which these can be derived.\n\n\n\n\n\n\nStatistical Mechanics\n\n\n\n\n\n\nDetails\n\n\n\n\n\nPre-Requisite Units:\n\nMA22016 Differential Equations & Vector Calculus\nMA22021 Partial Differential Equations\n\nPre-Requisite Knowledge: Vectors, Vector Calculus, Newtonian Mechanics\nProject Description:\nIn this project, you will investigate the principles of statistical mechanics and their applications.\nYou will start from Newtonian mechanics of a single particle and building to a Hamiltonian formulation. The project will investigate the principles of statistical mechanics in the ensemble statistics and applications in physics, such as the ideal gas law.\n\n\n\n\n\n\nIntegral Transforms & Their Applications\n\n\n\n\n\n\nDetails\n\n\n\n\n\nPre-Requisite Units:\n\nMA22016 Differential Equations & Vector Calculus\n\nRecommended Pre-Requisite Units:\n\nMA32046 Control Theory\n\nCo-Requisite Units:\n\nMA32062 Methods for Differential Equations\n\nProject Description:\nThis project will investigate different integral transforms and theory applications. There are many differential and integral equations that cannot be solved using conventional means, or if they can be, the process can be tedious. In this case, integral transformations can be used as a workaround, converting the equation into a different, more easily solvable form, before solving and reversing the transformation. This project will investigate different possible integrals transforms (such as one-sided and two-sided Laplace, Fourier, Mellin, Weierstrass and others), their properties will be studied and proven and their different uses and applications will be investigated."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Waleed A A Ali",
+    "section": "",
+    "text": "I am Waleed Ali, a Lecturer in the Department of Mathematical Sciences in the University of Bath. I am an applied mathematician, with a PhD in Hydrodynamic Stability Theory and Fluid Dynamics. Currently my interests lie in Mathematics Pedagogy and Educational Practices.\nI am a part of the Mathematics Education PRiME group in Bath where we focus our efforts on disseminating effective teaching practices and ways of making students in higher education more engaged.\n\n\n\n\n\n\n\nOutreach & Widening Participation Officer: I run the Maths Department’s outreach team where we give talks, run workshops and activities in Science festivals or local state schools.\nHEA Champion: I am the HEA representative of the Maths Department responsible for mentoring and advising Maths staff wishing to apply for HEA fellowship as well as being an HEA a reviewer.\nPeer Mentoring Coordinator: I run the Maths department’s peer mentoring scheme where Y2 and Y3 are matched up with new Y1 students to help advise them and act as a point of contact who are closer to them in age and experience.\nDiscover Bath Coordinator: Every year, the department hosts students from across the country where we run a 3-day maths workshop, helping to inspire students to pursue maths as an educational path in their future."
+  },
+  {
+    "objectID": "index.html#administrative-roles-in-the-univeristy-of-bath",
+    "href": "index.html#administrative-roles-in-the-univeristy-of-bath",
+    "title": "Waleed A A Ali",
+    "section": "",
+    "text": "Outreach & Widening Participation Officer: I run the Maths Department’s outreach team where we give talks, run workshops and activities in Science festivals or local state schools.\nHEA Champion: I am the HEA representative of the Maths Department responsible for mentoring and advising Maths staff wishing to apply for HEA fellowship as well as being an HEA a reviewer.\nPeer Mentoring Coordinator: I run the Maths department’s peer mentoring scheme where Y2 and Y3 are matched up with new Y1 students to help advise them and act as a point of contact who are closer to them in age and experience.\nDiscover Bath Coordinator: Every year, the department hosts students from across the country where we run a 3-day maths workshop, helping to inspire students to pursue maths as an educational path in their future."
+  },
+  {
+    "objectID": "HEA_Bath.html",
+    "href": "HEA_Bath.html",
+    "title": "Applying for Higher Education Academy Fellowship in The Univerity of Bath",
+    "section": "",
+    "text": "Applying for Higher Education Academy Fellowship in The Univerity of Bath\nThis page is dedicated to those members of staff in the University of Bath’s Maths Department who are planning to apply for the Higher Education Academy Fellowship. The resources on this page will only be accessible to those members of staff and GTAs of the University of Bath. The HEA Champion for the Maths Department will be me.\n\nKey Dates 2025-2026\n\n\n\nReview Round\nGateway Deadline\nSubmission Deadline\n\n\n\n\nRound 1\n12/09/2025\n17/10/2025\n\n\nRound 2\n09/01/2026\n06/02/2026\n\n\nRound 3\n10/04/2026\n15/05/2026\n\n\n\n\n\nSteps for Application\n\nEnrol (as a student) and complete First Steps into Teaching. This step might not be necessary for those with prior teaching experience.\nCheck the appropriate level of application using the Fellowship Category Tool.\nSign up and the attend the following courses:\n\nProbationers: 01 - Introduction to Probation Pathway to Fellowships (Pathways) on the CLT website.\nNon-Probationers: 20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow) on the CLT website.\nGTAs: GTA Pathway to Fellowship on Moodle.\n\nSign up for and attend 21 - Reflective Writing Support (Associate Fellow, Fellow and Senior Fellow) through the CLT website.\nMake sure you have been enrolled on the correct Moodle resources pages (by contacting acdev or me):\n\nProbationer Pathway\nExperiential Pathway\nGTA Pathway\n\nMake sure you have been enrolled on the Gateway to Fellowship Submission on Moodle.\nInform your department’s HEA Champion about your intention to submit before the Gateway Deadline.\nWork with your department’s HEA Champion to draft a fellowship application.\nIdentify your advocates\n\nAFHEA: 1 advocate\nFHEA: 2 advocates for non-probationers; 1 advocate and 1 senior observer for probationers\nSFHEA: 1 internal advocate and 1 external advocate.\n\nWrite and receive feedback on your application from your department’s HEA Champion.\nAct on the feedback, finalise the application and pass it to advocates to complete their statements.\nSubmit your application before the Submission Deadline."
+  },
+  {
+    "objectID": "History.html",
+    "href": "History.html",
+    "title": "Academic History",
+    "section": "",
+    "text": "2021-Present: Lecturer (University of Bath)\n2017-2021: Teaching Fellow (University of Bath)\n2016-2017: Associate Lecturer (Cardiff University)\n2011-2017: Teaching Assistant (Cardiff University)\n\n\n\n\n\n2012-2016, Cardiff University: PhD, thesis on Onset of Global Instabilities in the Plane Channel Flow between Compliant Walls, supervised by Christopher Davies.\n\n\n\n\n\n\n\nAbstract\n\n\n\n\n\n\n\n\nThe development of disturbances in plane channel flow between compliant walls is studied. It is well known that compliant walls have the ability to stabilise the Tollmien-Schlichting instability arising from the flow. However, given the wave-bearing nature of compliant walls, wall-based instabilities can be generated. In the absence of any modal interactions, the predominant wall-based instabilities are those known as divergence and travelling wave flutter which have their origins in the free-waves that can propagate in either direction along a compliant wall in the absence of any fluid.\nThe treatment of the problem at hand is mainly numerical, in particular two numerical approaches are used. The first involves solving the coupled fluid flow/compliant wall system of stability equations for disturbances with a normal mode form and the second is through direct numerical simulations for a finite compliant wall.\nThe results presented here show that the normal mode solutions of the governing equations can provide excellent predictions for the wavenumbers that characterise the compliant wall displacements for the wall-based modes that arise in the simulations. This documents the onset of the wall-based instabilities using the current simulation method and this has not been systematically studied before. Additionally, and perhaps most interestingly, they can also predict some aspects of the contribution from end effects for finite wall simulations even though the numerical procedure used to obtain said solutions has been designed for an infinite compliant wall.\nFinally, cases which display different types of instability in action and the range of possibilities for the spatial and temporal evolution are presented. Modal interactions between wall-based modes and those that can persist in a rigid channel are discussed and used to analyse the onset of global and absolute instability. These instabilities are studied from three different points of view: normal mode solutions of the fluid flow/compliant wall system, two-dimensional global mode computations and the direct numerical simulations.\n\n\n\n\n2008-2012, Cardiff University: MMath, dissertation on The Rotation Number Of Schrödinger Equations With Periodic And Limit-Periodic Potentials, supervised by Karl M Schmidt.\n\n\n\n\n\n\n\nOutstanding Contribution to Peer Support, 2025\nMary Tasker Award, 2025\nBest Overall Lecturer in the Department of Mathematical Sciences, 2022\nBest Lecturer of an Applied Module in the Department of Mathematical Sciences, 2022\nBest Unit (Ordinary Differential Equations & Control Theory) in the Department of Mathematical Sciences, 2022\n\n\n\n\n\nMost Influential Member of Staff, 2015\nIMA Award for Outstanding Student Achievement, 2012"
+  },
+  {
+    "objectID": "History.html#positions-held",
+    "href": "History.html#positions-held",
+    "title": "Academic History",
+    "section": "",
+    "text": "2021-Present: Lecturer (University of Bath)\n2017-2021: Teaching Fellow (University of Bath)\n2016-2017: Associate Lecturer (Cardiff University)\n2011-2017: Teaching Assistant (Cardiff University)"
+  },
+  {
+    "objectID": "History.html#educational-history",
+    "href": "History.html#educational-history",
+    "title": "Academic History",
+    "section": "",
+    "text": "2012-2016, Cardiff University: PhD, thesis on Onset of Global Instabilities in the Plane Channel Flow between Compliant Walls, supervised by Christopher Davies.\n\n\n\n\n\n\n\nAbstract\n\n\n\n\n\n\n\n\nThe development of disturbances in plane channel flow between compliant walls is studied. It is well known that compliant walls have the ability to stabilise the Tollmien-Schlichting instability arising from the flow. However, given the wave-bearing nature of compliant walls, wall-based instabilities can be generated. In the absence of any modal interactions, the predominant wall-based instabilities are those known as divergence and travelling wave flutter which have their origins in the free-waves that can propagate in either direction along a compliant wall in the absence of any fluid.\nThe treatment of the problem at hand is mainly numerical, in particular two numerical approaches are used. The first involves solving the coupled fluid flow/compliant wall system of stability equations for disturbances with a normal mode form and the second is through direct numerical simulations for a finite compliant wall.\nThe results presented here show that the normal mode solutions of the governing equations can provide excellent predictions for the wavenumbers that characterise the compliant wall displacements for the wall-based modes that arise in the simulations. This documents the onset of the wall-based instabilities using the current simulation method and this has not been systematically studied before. Additionally, and perhaps most interestingly, they can also predict some aspects of the contribution from end effects for finite wall simulations even though the numerical procedure used to obtain said solutions has been designed for an infinite compliant wall.\nFinally, cases which display different types of instability in action and the range of possibilities for the spatial and temporal evolution are presented. Modal interactions between wall-based modes and those that can persist in a rigid channel are discussed and used to analyse the onset of global and absolute instability. These instabilities are studied from three different points of view: normal mode solutions of the fluid flow/compliant wall system, two-dimensional global mode computations and the direct numerical simulations.\n\n\n\n\n2008-2012, Cardiff University: MMath, dissertation on The Rotation Number Of Schrödinger Equations With Periodic And Limit-Periodic Potentials, supervised by Karl M Schmidt."
+  },
+  {
+    "objectID": "History.html#awards",
+    "href": "History.html#awards",
+    "title": "Academic History",
+    "section": "",
+    "text": "Outstanding Contribution to Peer Support, 2025\nMary Tasker Award, 2025\nBest Overall Lecturer in the Department of Mathematical Sciences, 2022\nBest Lecturer of an Applied Module in the Department of Mathematical Sciences, 2022\nBest Unit (Ordinary Differential Equations & Control Theory) in the Department of Mathematical Sciences, 2022\n\n\n\n\n\nMost Influential Member of Staff, 2015\nIMA Award for Outstanding Student Achievement, 2012"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Student Projects",
+    "section": "",
+    "text": "I am open to accepting Y3 students willing to do a Final Year BSc Project in the following topics.\nI am also open to accepting MMath projects with a topic up for discussion.\n\n\n\nA Brief Overview of Special Functions and Their Applications in Mathematics and Beyond, Emilia Lewis, 2022\nApproximate Methods for Solving Ordinary Differential Equations, Andrea Zhang, 2023\nThe Lorenz System and Applications of Chaos, Samuel Hancock, 2024\n\n\n\n\n\nMathematical Modelling of Issues in the Department for Education, Addie Baker, 2025"
+  },
+  {
+    "objectID": "Projects.html#bsc-projects",
+    "href": "Projects.html#bsc-projects",
+    "title": "Student Projects",
+    "section": "",
+    "text": "A Brief Overview of Special Functions and Their Applications in Mathematics and Beyond, Emilia Lewis, 2022\nApproximate Methods for Solving Ordinary Differential Equations, Andrea Zhang, 2023\nThe Lorenz System and Applications of Chaos, Samuel Hancock, 2024"
+  },
+  {
+    "objectID": "Projects.html#mmath-projects",
+    "href": "Projects.html#mmath-projects",
+    "title": "Student Projects",
+    "section": "",
+    "text": "Mathematical Modelling of Issues in the Department for Education, Addie Baker, 2025"
+  },
+  {
+    "objectID": "Talks.html",
+    "href": "Talks.html",
+    "title": "Talks & Seminars",
+    "section": "",
+    "text": "After my PhD, most of the talks I have been involved in have either been related to mathematics education or are talks of general public interest and pop culture.\n\n\n\nDifferences in Educational Practices in the Sciences & Social Sciences (PoLIS, UoB)\n\n\n\n\n\nThe Earth is not Flat: Proof by Pizza (Cardiff Science Café)\nQuantification of Pizza Baking Properties of Different Cheeses and their Correlation with Cheese Functionality (Cardiff PGR Symposia)\nThe Science of Star Wars (Cardiff PGR Symposia; Techniquest Star Wars Day; Cardiff Science Café)\nWill we Survive the Zombie Apocalypse? (Cardiff and Bath PGR Symposia)\nWhy Superpowers are Impossible (Cardiff PGR Symposia; UoB Maths Society)\nIs Maths Invented or Discovered? (UoB Philosophy Society)\nWhat is the Biggest Number? (Cardiff PGR Symposia)\n\n\n\n\n\nOutreach Outside of Higher Education (SAMBa Conference, Bath)\n\n\n\n\n\nGregynog Mathematics Colloquium (Gregynog Hall, Tregynon)\n\\(11^{\\mathrm{th}}\\) European Fluid Mechanics Conference (Seville, Spain)\n\\(50^{\\mathrm{th}}\\) British Applied Mathematics Colloquium (Cambridge, UK)"
+  },
+  {
+    "objectID": "Talks.html#mathematics-education",
+    "href": "Talks.html#mathematics-education",
+    "title": "Talks & Seminars",
+    "section": "",
+    "text": "Differences in Educational Practices in the Sciences & Social Sciences (PoLIS, UoB)"
+  },
+  {
+    "objectID": "Talks.html#pop-culture-general-interest",
+    "href": "Talks.html#pop-culture-general-interest",
+    "title": "Talks & Seminars",
+    "section": "",
+    "text": "The Earth is not Flat: Proof by Pizza (Cardiff Science Café)\nQuantification of Pizza Baking Properties of Different Cheeses and their Correlation with Cheese Functionality (Cardiff PGR Symposia)\nThe Science of Star Wars (Cardiff PGR Symposia; Techniquest Star Wars Day; Cardiff Science Café)\nWill we Survive the Zombie Apocalypse? (Cardiff and Bath PGR Symposia)\nWhy Superpowers are Impossible (Cardiff PGR Symposia; UoB Maths Society)\nIs Maths Invented or Discovered? (UoB Philosophy Society)\nWhat is the Biggest Number? (Cardiff PGR Symposia)"
+  },
+  {
+    "objectID": "Talks.html#outreach",
+    "href": "Talks.html#outreach",
+    "title": "Talks & Seminars",
+    "section": "",
+    "text": "Outreach Outside of Higher Education (SAMBa Conference, Bath)"
+  },
+  {
+    "objectID": "Talks.html#fluid-dyanmics-hyrdodynamic-stability-seminars",
+    "href": "Talks.html#fluid-dyanmics-hyrdodynamic-stability-seminars",
+    "title": "Talks & Seminars",
+    "section": "",
+    "text": "Gregynog Mathematics Colloquium (Gregynog Hall, Tregynon)\n\\(11^{\\mathrm{th}}\\) European Fluid Mechanics Conference (Seville, Spain)\n\\(50^{\\mathrm{th}}\\) British Applied Mathematics Colloquium (Cambridge, UK)"
+  }
+]
