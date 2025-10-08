@@ -1,15 +1,15 @@
-# Academic History
+# Career History
 
 ## Positions Held
 
-- 2021-Present:  Lecturer (**University of Bath**)
-- 2017-2021:  Teaching Fellow (**University of Bath**)
-- 2016-2017:  Associate Lecturer (**Cardiff University**)
-- 2011-2017:  Teaching Assistant (**Cardiff University**)
+- 2021--Present:  Lecturer (**University of Bath**)
+- 2017--2021:  Teaching Fellow (**University of Bath**)
+- 2016--2017:  Associate Lecturer (**Cardiff University**)
+- 2011--2017:  Teaching Assistant (**Cardiff University**)
 
 ## Educational History
 
-- 2012-2016, **Cardiff University**:  PhD, thesis on [*Onset of Global Instabilities in the Plane Channel Flow between Compliant Walls*](documents/WAAAli_Thesis.pdf), supervised by Christopher Davies.
+- 2012--2016, **Cardiff University**:  PhD, thesis on [*Onset of Global Instabilities in the Plane Channel Flow between Compliant Walls*](documents/WAAAli_Thesis.pdf), supervised by Christopher Davies.
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 ::: {.img-float}
@@ -26,19 +26,21 @@ Finally, cases which display different types of instability in action and the ra
 
 :::
 
-- 2008-2012, **Cardiff University**:  MMath, dissertation on *The Rotation Number Of Schrödinger Equations With Periodic And Limit-Periodic Potentials*, supervised by Karl M Schmidt.
+- 2008--2012, **Cardiff University**:  MMath, dissertation on *The Rotation Number Of Schrödinger Equations With Periodic And Limit-Periodic Potentials*, supervised by [Karl M Schmidt](https://profiles.cardiff.ac.uk/staff/schmidtkm).
 
 ## Awards
 
 ### Univerity of Bath
 
 - Outstanding Contribution to Peer Support, *2025*
-- Mary Tasker Award, *2025*
+- [Mary Tasker Award](https://blogs.bath.ac.uk/clt/2025/04/04/congratulations-to-our-teaching-awards-2025-winners/), *2025*
 - Best Overall Lecturer in the Department of Mathematical Sciences, *2022*
 - Best Lecturer of an Applied Module in the Department of Mathematical Sciences, *2022*
 - Best Unit (Ordinary Differential Equations & Control Theory) in the Department of Mathematical Sciences, *2022*
 
 ### Cardiff Univeristy
 
-- Most Influential Member of Staff, *2015*
-- IMA Award for Outstanding Student Achievement, *2012*
+- Most Influential Member of Staff in the Final Year, *2015*
+- Enriching Student Life Award - Most Uplifting Staff Member, *2015*
+- EPSRC Postgraduate Studentship, *2012*
+- IMA Award for High Undergraduate Achievement, *2012*

@@ -47,10 +47,9 @@ website:
 format:
      html:
           theme:
-               light: [flatly,style.scss]
-               dark: [darkly,style.scss]
+               light: [flatly,styleL.scss]
+               dark: [darkly,styleD.scss]
           respect-user-color-scheme: true
-          css: style.scss
           mainfont: 'Calisto MT'
           fontsize: 1rem
           page-layout: full

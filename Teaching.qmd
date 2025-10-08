@@ -26,7 +26,7 @@
 
 - **School of Mathematics**:
      + Y2:  Vector Calculus
-     + Y1:  TA for Algebra 1, Analysis 1, Analysis 2, Geometry, Statistical Inference, Elementary Number Theory
+     + Y1:  TA for Computing, Algebra 1, Analysis 1, Analysis 2, Calculus, Geometry, Statistical Inference, Elementary Number Theory
 
 - **School of Biosciences**:
      + Y1:  Preliminary Mathematics & Statistics for the Life Sciences
