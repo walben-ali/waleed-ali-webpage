@@ -16,10 +16,12 @@ This page is dedicated to those members of staff in the University of Bath's Mat
 
 1. Check the appropriate level of application using the [Fellowship Category Tool](https://www.advance-he.ac.uk/form/fellowship-decision-tool-2023).
 
-2. Sign up and the attend the following courses:
-     + **Probationers**:  *01 - Introduction to Probation Pathway to Fellowships (Pathways)* on the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
-     + **Non-Probationers**:  *20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow)* on the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
-     * **GTAs**:  *GTA Pathway to Fellowship* on [Moodle](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16).
+2.
+     i.  If you are a **member of staff**, sign up and the attend the following courses:
+          + **Probationers**:  *01 - Introduction to Probation Pathway to Fellowships (Pathways)* on the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
+          + **Non-Probationers**:  *20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow)* on the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
+     
+     ii.  If you are a **GTA**, complete the *GTA Pathway to Fellowship* course on [Moodle](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16), you will then need to contact your Champion for further mentoring to ensure that you are applying for the appropriate fellowship level.
 
 3. Sign up for and attend *21 - Reflective Writing Support (Associate Fellow, Fellow and Senior Fellow)* through the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
 
@@ -36,7 +38,9 @@ This page is dedicated to those members of staff in the University of Bath's Mat
 
 8. Identify your advocates
      + **AFHEA**:  1 advocate
-     + **FHEA**:  2 advocates for non-probationers; 1 advocate and 1 senior observer for probationers
+     + **FHEA**:
+          - *Probationers*:  1 advocate and 1 senior observer (senior observer arranges by the Pathways Team)
+          - *Non-Probationers*:  2 advocates
      + **SFHEA**:  1 internal advocate and 1 external advocate.
 
 9. Write and receive feedback on your application from your department's HEA Champion.

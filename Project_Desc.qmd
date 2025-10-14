@@ -12,7 +12,7 @@
 
 - MA22032 Analysis 2A
 
-**Pre-Requisite Knowledge:**  Coding in Python or MATLAB
+**Pre-Requisite Knowledge:** Coding in Python or MATLAB
 
 **Project Description:**
 

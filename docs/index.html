@@ -66,6 +66,121 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script id="toggle-light-dark-elements" type="application/javascript">
+
+// Extend Quarto theme toggling to allow elements to be displayed/hidden in light/dark themes
+
+
+
+// Replicated from https://github.com/quarto-dev/quarto-cli/blob/84d4659/src/resources/formats/html/templates/quarto-html.ejs
+
+const getColorSchemeSentinel = () => {
+
+  const localAlternateSentinel = 'default';
+
+  if (window.location.protocol !== 'file:') {
+
+    const storageValue = window.localStorage.getItem('quarto-color-scheme');
+
+    return storageValue != null ? storageValue : localAlternateSentinel;
+
+  } else {
+
+    return localAlternateSentinel;
+
+  }
+
+};
+
+
+
+// Function to toggle light and dark elements based on color scheme
+
+const toggleColorSchemeElements = () => {
+
+  const scheme = getColorSchemeSentinel();
+
+  const lightElements = document.getElementsByClassName('only-light');
+
+  const darkElements = document.getElementsByClassName('only-dark');
+
+
+
+  for (var i = 0; i < lightElements.length; i++) {
+
+    lightElements[i].style.display = scheme == 'default' ? 'block' : 'none';
+
+  }
+
+  for (var i = 0; i < darkElements.length; i++) {
+
+    darkElements[i].style.display = scheme == 'default' ? 'none' : 'block';
+
+  }
+
+};
+
+
+
+// Function to check if the user's browser prefers dark themes
+
+const prefersDarkTheme = () => {
+
+  if (window.matchMedia) {
+
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  }
+
+  return false;
+
+};
+
+
+
+document.addEventListener('readystatechange', function() {
+
+  // Set the default color scheme based on browser preference
+
+  if (document.readyState === 'interactive' && window.location.protocol !== 'file:') {
+
+    const storageValue = window.localStorage.getItem('quarto-color-scheme');
+
+    if (storageValue == null && prefersDarkTheme()) {
+
+      window.localStorage.setItem('quarto-color-scheme', 'alternate');
+
+    }
+
+  }
+
+  // Add event listener for when the readyState is complete (and default toggler is set)
+
+  if (document.readyState === 'complete') {
+
+    // Toggle scheme once
+
+    toggleColorSchemeElements();
+
+    // Append our toggle function to the old one
+
+    const oldToggle = window.quartoToggleColorScheme;
+
+    window.quartoToggleColorScheme = () => {
+
+      oldToggle();
+
+      toggleColorSchemeElements();
+
+    }
+
+  }
+
+});
+
+
+
+</script>
 
 
 <meta property="og:title" content="Waleed A A Ali">
@@ -153,28 +268,39 @@ ul.task-list li input[type="checkbox"] {
 <section id="waleed-a-a-ali" class="level1">
 <h1>Waleed A A Ali</h1>
 <div class="img-float">
-<p><img src="images/Profile.jpg" class="img-fluid" style="float: left; margin: 5px;;width:50.0%"></p>
+<p><img src="images/Profile-Circle.png" class="img-fluid" style="float: left; margin: 5px;;width:40.0%"></p>
 </div>
-<p>I am Waleed Ali, a Lecturer in the Department of Mathematical Sciences in the University of Bath. I am an applied mathematician, with a PhD in <em>Hydrodynamic Stability Theory</em>. Currently my interests lie in <em>Mathematics Pedagogy and Educational Practices</em>.</p>
-<p>I am a part of the Mathematics Education <a href="https://prime-bath.github.io/PRiME/">PRiME</a> group in Bath where we focus our efforts on disseminating effective teaching practices and ways of making students in higher education more engaged.</p>
-<p><br><br><br><br><br><br></p>
+<p><br></p>
+<p>I am Waleed Ali, a Lecturer in the Department of Mathematical Sciences in the University of Bath since 2017. I am an applied mathematician, with a PhD in <em>Hydrodynamic Stability Theory</em> from Cardiff University under the supervision of Dr Christopher Davies.</p>
+<p>Currently, my academic and research interests lie in Mathematics Pedagogy and Educational Practices, Interdisciplinary Education and Effective Teaching Practices.</p>
+<p>I am a part of the Mathematics Education <a href="https://prime-bath.github.io/PRiME/">PRiME</a> group in Bath where we focus our efforts on disseminating effective teaching practices and ways of making students in higher education more engaged in their learning journey.</p>
+<p><br></p>
 <section id="research-interests" class="level2">
 <h2 class="anchored" data-anchor-id="research-interests">Research Interests</h2>
+<section id="edcuational" class="level3">
+<h3 class="anchored" data-anchor-id="edcuational">Edcuational</h3>
 <ul>
 <li>Mathematics pedagogy</li>
-<li>Effective teaching practices using technology</li>
+<li>Effective teaching practices using appropriate technologies</li>
+<li>Interdisciplinary teaching practices</li>
+</ul>
+</section>
+<section id="fluid-dynamics" class="level3">
+<h3 class="anchored" data-anchor-id="fluid-dynamics">Fluid Dynamics</h3>
+<ul>
 <li>Hydrodynamic stability theory</li>
 <li>Turbulence suppression</li>
 </ul>
 </section>
+</section>
 <section id="administrative-roles-in-the-univeristy-of-bath" class="level2">
 <h2 class="anchored" data-anchor-id="administrative-roles-in-the-univeristy-of-bath">Administrative Roles in the Univeristy of Bath</h2>
 <ul>
-<li><p><strong>Outreach &amp; Widening Participation Officer</strong>: I run the Maths Department’s outreach team where we give talks, run workshops and activities in Science festivals or local state schools.</p></li>
-<li><p><strong>HEA Champion</strong>: I am the HEA representative of the Maths Department responsible for mentoring and advising Maths staff wishing to apply for HEA fellowship as well as being an HEA reviewer.</p></li>
-<li><p><strong>Peer Mentoring Coordinator</strong>: I run the Maths department’s peer mentoring scheme where Y2 and Y3 students are matched up with the incoming Y1 students to help advise them and act as a point of contact.</p></li>
-<li><p><strong>Discover Bath Coordinator</strong>: Every year, the department hosts students from across the country where we run a 3-day maths workshop, helping to inspire students to pursue maths as an educational path in their future.</p></li>
-<li><p><strong>Convener of Mathematics for Natural Sciences</strong>: In my interdepartmental role, I have been assigned the role of the convener for all the maths units taught in the Department of Natural Sciences.</p></li>
+<li><p><strong>Outreach &amp; Widening Participation Officer</strong>: I run the Maths Department’s outreach team where we give talks, run workshops and activities in Science Festivals or local state schools. If you have any queries, contact me or <a href="mailto:%20maths-outreach@bath.ac.uk">Maths Outreach</a>.</p></li>
+<li><p><strong>HEA Champion</strong>: I am the HEA representative of the Maths Department responsible for mentoring and advising Maths staff and PG students wishing to apply for HEA fellowship as well as being an HEA reviewer.</p></li>
+<li><p><strong><a href="https://www.thesubath.com/peer-support/mentoring/">Peer Mentoring</a> Coordinator</strong>: I run the Maths department’s peer mentoring scheme where Y2 and Y3 students are matched up with the incoming Y1 students to help advise them and act as a point of contact.</p></li>
+<li><p><strong><a href="https://www.bath.ac.uk/campaigns/discover-bath/">Discover Bath</a> Coordinator</strong>: Every year, the department hosts students from across the country where we run a 3-day maths workshop, helping to inspire students to pursue maths as an educational path in their future.</p></li>
+<li><p><strong>Convener of Mathematics for Natural Sciences</strong>: In my interdepartmental role, I have been assigned as the convener for all the maths units taught in the Department of Natural Sciences.</p></li>
 </ul>
 <hr>
 

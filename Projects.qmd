@@ -1,6 +1,6 @@
 # Student Projects
 
-I am open to accepting Y3 students willing to do a [Final Year BSc Project](https://www.bath.ac.uk/catalogues/2025-2026/ma/MA32050.html) in the [following topics](Project_Desc.qmd).
+I am open to accepting Y3 students willing to do a [Final Year BSc Project](https://www.bath.ac.uk/catalogues/2025-2026/ma/MA32050.html) in the [following topics](Project_Desc.qmd), other topics are also up for discussion.
 
 I am also open to accepting [MMath](https://www.bath.ac.uk/catalogues/2025-2026/ma/MA40249.html) projects with a topic up for discussion.
 
@@ -14,4 +14,4 @@ I am also open to accepting [MMath](https://www.bath.ac.uk/catalogues/2025-2026/
 
 ## MMath Projects
 
-* Mathematical Modelling of Issues in the Department for Education, **Addie Baker**, *2025*
+* [Mathematical Modelling of Issues in the Department for Education](documents/AB_MMath.pdf), **Addie Baker**, *2025*

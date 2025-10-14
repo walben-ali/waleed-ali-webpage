@@ -66,6 +66,121 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script id="toggle-light-dark-elements" type="application/javascript">
+
+// Extend Quarto theme toggling to allow elements to be displayed/hidden in light/dark themes
+
+
+
+// Replicated from https://github.com/quarto-dev/quarto-cli/blob/84d4659/src/resources/formats/html/templates/quarto-html.ejs
+
+const getColorSchemeSentinel = () => {
+
+  const localAlternateSentinel = 'default';
+
+  if (window.location.protocol !== 'file:') {
+
+    const storageValue = window.localStorage.getItem('quarto-color-scheme');
+
+    return storageValue != null ? storageValue : localAlternateSentinel;
+
+  } else {
+
+    return localAlternateSentinel;
+
+  }
+
+};
+
+
+
+// Function to toggle light and dark elements based on color scheme
+
+const toggleColorSchemeElements = () => {
+
+  const scheme = getColorSchemeSentinel();
+
+  const lightElements = document.getElementsByClassName('only-light');
+
+  const darkElements = document.getElementsByClassName('only-dark');
+
+
+
+  for (var i = 0; i < lightElements.length; i++) {
+
+    lightElements[i].style.display = scheme == 'default' ? 'block' : 'none';
+
+  }
+
+  for (var i = 0; i < darkElements.length; i++) {
+
+    darkElements[i].style.display = scheme == 'default' ? 'none' : 'block';
+
+  }
+
+};
+
+
+
+// Function to check if the user's browser prefers dark themes
+
+const prefersDarkTheme = () => {
+
+  if (window.matchMedia) {
+
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  }
+
+  return false;
+
+};
+
+
+
+document.addEventListener('readystatechange', function() {
+
+  // Set the default color scheme based on browser preference
+
+  if (document.readyState === 'interactive' && window.location.protocol !== 'file:') {
+
+    const storageValue = window.localStorage.getItem('quarto-color-scheme');
+
+    if (storageValue == null && prefersDarkTheme()) {
+
+      window.localStorage.setItem('quarto-color-scheme', 'alternate');
+
+    }
+
+  }
+
+  // Add event listener for when the readyState is complete (and default toggler is set)
+
+  if (document.readyState === 'complete') {
+
+    // Toggle scheme once
+
+    toggleColorSchemeElements();
+
+    // Append our toggle function to the old one
+
+    const oldToggle = window.quartoToggleColorScheme;
+
+    window.quartoToggleColorScheme = () => {
+
+      oldToggle();
+
+      toggleColorSchemeElements();
+
+    }
+
+  }
+
+});
+
+
+
+</script>
 
 
 <meta property="og:title" content="Waleed A A Ali">
@@ -187,12 +302,14 @@ ul.task-list li input[type="checkbox"] {
 <ol start="0" type="1">
 <li><p>Enrol (as a student) and complete <a href="https://moodle.bath.ac.uk/enrol/index.php?id=58363">First Steps into Teaching</a>. This step might not be necessary for those with prior teaching experience.</p></li>
 <li><p>Check the appropriate level of application using the <a href="https://www.advance-he.ac.uk/form/fellowship-decision-tool-2023">Fellowship Category Tool</a>.</p></li>
-<li><p>Sign up and the attend the following courses:</p>
+<li><ol type="i">
+<li>If you are a <strong>member of staff</strong>, sign up and the attend the following courses:
 <ul>
 <li><strong>Probationers</strong>: <em>01 - Introduction to Probation Pathway to Fellowships (Pathways)</em> on the <a href="https://teachinghub.bath.ac.uk/events/categories/pathways/">CLT website</a>.</li>
 <li><strong>Non-Probationers</strong>: <em>20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow)</em> on the <a href="https://teachinghub.bath.ac.uk/events/categories/pathways/">CLT website</a>.</li>
-<li><strong>GTAs</strong>: <em>GTA Pathway to Fellowship</em> on <a href="https://moodle.bath.ac.uk/course/view.php?id=59695&amp;section=16">Moodle</a>.</li>
 </ul></li>
+<li>If you are a <strong>GTA</strong>, complete the <em>GTA Pathway to Fellowship</em> course on <a href="https://moodle.bath.ac.uk/course/view.php?id=59695&amp;section=16">Moodle</a>, you will then need to contact your Champion for further mentoring to ensure that you are applying for the appropriate fellowship level.</li>
+</ol></li>
 <li><p>Sign up for and attend <em>21 - Reflective Writing Support (Associate Fellow, Fellow and Senior Fellow)</em> through the <a href="https://teachinghub.bath.ac.uk/events/categories/pathways/">CLT website</a>.</p></li>
 <li><p>Make sure you have been enrolled on the correct Moodle resources pages (by contacting <a href="mailto:acdev@bath.ac.uk">acdev</a> or <a href="mailto:waaa21@bath.ac.uk">me</a>):</p>
 <ul>
@@ -206,7 +323,11 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Identify your advocates</p>
 <ul>
 <li><strong>AFHEA</strong>: 1 advocate</li>
-<li><strong>FHEA</strong>: 2 advocates for non-probationers; 1 advocate and 1 senior observer for probationers</li>
+<li><strong>FHEA</strong>:
+<ul>
+<li><em>Probationers</em>: 1 advocate and 1 senior observer (senior observer arranges by the Pathways Team)</li>
+<li><em>Non-Probationers</em>: 2 advocates</li>
+</ul></li>
 <li><strong>SFHEA</strong>: 1 internal advocate and 1 external advocate.</li>
 </ul></li>
 <li><p>Write and receive feedback on your application from your department’s HEA Champion.</p></li>

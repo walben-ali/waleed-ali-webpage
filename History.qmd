@@ -30,7 +30,7 @@ Finally, cases which display different types of instability in action and the ra
 
 ## Awards
 
-### Univerity of Bath
+### ![](images/Bath-Logo2.png){width=100px}Univerity of Bath
 
 - Outstanding Contribution to Peer Support, *2025*
 - [Mary Tasker Award](https://blogs.bath.ac.uk/clt/2025/04/04/congratulations-to-our-teaching-awards-2025-winners/), *2025*
@@ -38,7 +38,7 @@ Finally, cases which display different types of instability in action and the ra
 - Best Lecturer of an Applied Module in the Department of Mathematical Sciences, *2022*
 - Best Unit (Ordinary Differential Equations & Control Theory) in the Department of Mathematical Sciences, *2022*
 
-### Cardiff Univeristy
+### ![](images/Cardiff-Logo.png){width=100px}Cardiff Univeristy
 
 - Most Influential Member of Staff in the Final Year, *2015*
 - Enriching Student Life Award - Most Uplifting Staff Member, *2015*

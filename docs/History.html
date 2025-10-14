@@ -66,6 +66,121 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script id="toggle-light-dark-elements" type="application/javascript">
+
+// Extend Quarto theme toggling to allow elements to be displayed/hidden in light/dark themes
+
+
+
+// Replicated from https://github.com/quarto-dev/quarto-cli/blob/84d4659/src/resources/formats/html/templates/quarto-html.ejs
+
+const getColorSchemeSentinel = () => {
+
+  const localAlternateSentinel = 'default';
+
+  if (window.location.protocol !== 'file:') {
+
+    const storageValue = window.localStorage.getItem('quarto-color-scheme');
+
+    return storageValue != null ? storageValue : localAlternateSentinel;
+
+  } else {
+
+    return localAlternateSentinel;
+
+  }
+
+};
+
+
+
+// Function to toggle light and dark elements based on color scheme
+
+const toggleColorSchemeElements = () => {
+
+  const scheme = getColorSchemeSentinel();
+
+  const lightElements = document.getElementsByClassName('only-light');
+
+  const darkElements = document.getElementsByClassName('only-dark');
+
+
+
+  for (var i = 0; i < lightElements.length; i++) {
+
+    lightElements[i].style.display = scheme == 'default' ? 'block' : 'none';
+
+  }
+
+  for (var i = 0; i < darkElements.length; i++) {
+
+    darkElements[i].style.display = scheme == 'default' ? 'none' : 'block';
+
+  }
+
+};
+
+
+
+// Function to check if the user's browser prefers dark themes
+
+const prefersDarkTheme = () => {
+
+  if (window.matchMedia) {
+
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  }
+
+  return false;
+
+};
+
+
+
+document.addEventListener('readystatechange', function() {
+
+  // Set the default color scheme based on browser preference
+
+  if (document.readyState === 'interactive' && window.location.protocol !== 'file:') {
+
+    const storageValue = window.localStorage.getItem('quarto-color-scheme');
+
+    if (storageValue == null && prefersDarkTheme()) {
+
+      window.localStorage.setItem('quarto-color-scheme', 'alternate');
+
+    }
+
+  }
+
+  // Add event listener for when the readyState is complete (and default toggler is set)
+
+  if (document.readyState === 'complete') {
+
+    // Toggle scheme once
+
+    toggleColorSchemeElements();
+
+    // Append our toggle function to the old one
+
+    const oldToggle = window.quartoToggleColorScheme;
+
+    window.quartoToggleColorScheme = () => {
+
+      oldToggle();
+
+      toggleColorSchemeElements();
+
+    }
+
+  }
+
+});
+
+
+
+</script>
 
 
 <meta property="og:title" content="Waleed A A Ali">
@@ -194,7 +309,7 @@ Abstract
 <section id="awards" class="level2">
 <h2 class="anchored" data-anchor-id="awards">Awards</h2>
 <section id="univerity-of-bath" class="level3">
-<h3 class="anchored" data-anchor-id="univerity-of-bath">Univerity of Bath</h3>
+<h3 class="anchored" data-anchor-id="univerity-of-bath"><img src="images/Bath-Logo2.png" class="img-fluid" width="100">Univerity of Bath</h3>
 <ul>
 <li>Outstanding Contribution to Peer Support, <em>2025</em></li>
 <li><a href="https://blogs.bath.ac.uk/clt/2025/04/04/congratulations-to-our-teaching-awards-2025-winners/">Mary Tasker Award</a>, <em>2025</em></li>
@@ -204,7 +319,7 @@ Abstract
 </ul>
 </section>
 <section id="cardiff-univeristy" class="level3">
-<h3 class="anchored" data-anchor-id="cardiff-univeristy">Cardiff Univeristy</h3>
+<h3 class="anchored" data-anchor-id="cardiff-univeristy"><img src="images/Cardiff-Logo.png" class="img-fluid" width="100">Cardiff Univeristy</h3>
 <ul>
 <li>Most Influential Member of Staff in the Final Year, <em>2015</em></li>
 <li>Enriching Student Life Award - Most Uplifting Staff Member, <em>2015</em></li>

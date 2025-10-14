@@ -25,8 +25,11 @@
 ## ![](images/Cardiff-Logo.png){width=100px} Cardiff Univeristy
 
 - **School of Mathematics**:
+     + Y1:  TA for Computing, Algebra, Analysis, Calculus, Geometry, Statistical Inference, Elementary Number Theory
      + Y2:  Vector Calculus
-     + Y1:  TA for Computing, Algebra 1, Analysis 1, Analysis 2, Calculus, Geometry, Statistical Inference, Elementary Number Theory
-
+     
 - **School of Biosciences**:
      + Y1:  Preliminary Mathematics & Statistics for the Life Sciences
+
+- **School of Nursing & Midwifery**:
+     + Y1:  Mathematics for Nursing

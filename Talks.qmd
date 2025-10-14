@@ -4,26 +4,28 @@ After my PhD, most of the talks I have been involved in have either been related
 
 ## Mathematics Education
 
-- Differences in Educational Practices in the Sciences & Social Sciences (*PoLIS, UoB*)
+- Promoting Lecture Engagement in the Sciences (*PoLIS, UoB*)
+- How to Give a Public Talk (*Bath PGR Symposium*)
 - HEA Fellowship in Maths ([*PRiME Seminar Series*](https://prime-bath.github.io/PRiME/seminars.html#HEA-Fellowship-in-Maths))
 
 ## Pop Culture & General Interest
 
-- The Earth is not Flat:  Proof by Pizza (*Cardiff Science Café*)
-- Quantification of Pizza Baking Properties of Different Cheeses and their Correlation with Cheese Functionality (*Cardiff PGR Symposia*)
-- The Science of Star Wars (*Cardiff PGR Symposia*; *Techniquest Star Wars Day*; *Cardiff Science Café*)
-- Will we Survive the Zombie Apocalypse? (*Cardiff and Bath PGR Symposia*)
-- Why Superpowers are Impossible (*Cardiff PGR Symposia*; *UoB Maths Society*)
+- Why Superpowers are Impossible (*Cardiff PGR Seminars*; *UoB Maths Society*)
+- Will we Survive the Zombie Apocalypse? (*Cardiff and Bath PGR Seminars*)
+- The Science of Star Wars (*Cardiff PGR Seminars*; *Techniquest Star Wars Day*; *Cardiff Science Café*)
 - Is Maths Invented or Discovered? (*UoB Philosophy Society*)
-- What is the Biggest Number? (*Cardiff PGR Symposia*)
-- How Likely are you to Get Sick
+- The Earth is not Flat:  Proof by Pizza (*Cardiff Science Café*)
+- What is the Biggest Number? (*Cardiff PGR Seminars*)
+- How Likely are you to Get Sick? (*Cardiff PGR Seminars*)
+- Quantification of Pizza Baking Properties of Different Cheeses and their Correlation with Cheese Functionality (*Cardiff PGR Seminars*)
 
 ## Outreach
 
 - Outreach Outside of Higher Education (*SAMBa Conference, Bath*)
 
-## Fluid Dyanmics & Hyrdodynamic Stability Seminars
+## Fluid Dyanmics & Hyrdodynamic Stability
 
-- Gregynog Mathematics Colloquium (Gregynog Hall, Tregynon)
-- $11^{\mathrm{th}}$ European Fluid Mechanics Conference (Seville, Spain)
-- $50^{\mathrm{th}}$ British Applied Mathematics Colloquium (Cambridge, UK)
+- Gregynog Mathematics Colloquium (*Gregynog Hall, Tregynon, Wales*)
+- $11^{\mathrm{th}}$ European Fluid Mechanics Conference (*Seville, Spain*)
+- $50^{\mathrm{th}}$ British Applied Mathematics Colloquium (*Cambridge, UK*)
+- Cardiff Applied Maths Seminars (*Cardiff, Wales*)
