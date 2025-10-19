@@ -9,7 +9,7 @@
 
 ## Educational History
 
-- 2012--2016, **Cardiff University**:  PhD, thesis on [*Onset of Global Instabilities in the Plane Channel Flow between Compliant Walls*](documents/WAAAli_Thesis.pdf), supervised by Christopher Davies.
+- 2012--2016, **Cardiff University**:  PhD, thesis on [*Onset of Global Instabilities in the Plane Channel Flow between Compliant Walls*](documents/WAAAli_Thesis.pdf), supervised by Dr Christopher Davies and Dr Maurice J Blount.
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 ::: {.img-float}
@@ -26,7 +26,7 @@ Finally, cases which display different types of instability in action and the ra
 
 :::
 
-- 2008--2012, **Cardiff University**:  MMath, dissertation on *The Rotation Number Of Schrödinger Equations With Periodic And Limit-Periodic Potentials*, supervised by [Karl M Schmidt](https://profiles.cardiff.ac.uk/staff/schmidtkm).
+- 2008--2012, **Cardiff University**:  MMath, dissertation on *The Rotation Number Of Schrödinger Equations With Periodic And Limit-Periodic Potentials*, supervised by [Professor Karl M Schmidt](https://profiles.cardiff.ac.uk/staff/schmidtkm).
 
 ## Awards
 

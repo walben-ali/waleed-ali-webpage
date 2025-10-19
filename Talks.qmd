@@ -1,7 +1,5 @@
 # Talks & Seminars
 
-After my PhD, most of the talks I have been involved in have either been related to mathematics education or are talks of general public interest and pop culture.
-
 ## Mathematics Education
 
 - Promoting Lecture Engagement in the Sciences (*PoLIS, UoB*)
@@ -14,7 +12,7 @@ After my PhD, most of the talks I have been involved in have either been related
 - Will we Survive the Zombie Apocalypse? (*Cardiff and Bath PGR Seminars*)
 - The Science of Star Wars (*Cardiff PGR Seminars*; *Techniquest Star Wars Day*; *Cardiff Science Café*)
 - Is Maths Invented or Discovered? (*UoB Philosophy Society*)
-- The Earth is not Flat:  Proof by Pizza (*Cardiff Science Café*)
+- The Earth is NOT Flat:  Proof by Pizza (*Cardiff Science Café*)
 - What is the Biggest Number? (*Cardiff PGR Seminars*)
 - How Likely are you to Get Sick? (*Cardiff PGR Seminars*)
 - Quantification of Pizza Baking Properties of Different Cheeses and their Correlation with Cheese Functionality (*Cardiff PGR Seminars*)

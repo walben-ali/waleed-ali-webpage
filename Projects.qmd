@@ -6,11 +6,11 @@ I am also open to accepting [MMath](https://www.bath.ac.uk/catalogues/2025-2026/
 
 ## BSc Projects
 
-* A Brief Overview of Special Functions and Their Applications in Mathematics & Beyond, **Emilia Lewis**, *2022*
+* [A Brief Overview of Special Functions and Their Applications in Mathematics & Beyond](documents/EL_BSc.pdf), **Emilia Lewis**, *2022*
 
-* Approximate Methods for Solving Ordinary Differential Equations, **Andrea Zhang**, *2023*
+* [Approximate Methods for Solving Ordinary Differential Equations](documents/AZ_BSc.pdf), **Andrea Zhang**, *2023*
 
-* The Lorenz System & Applications of Chaos, **Samuel Hancock**, *2024*
+* [The Lorenz System & Applications of Chaos](documents/SH_BSc.pdf), **[Samuel Hancock](https://www.linkedin.com/in/samuel-hancock-894a87298/)**, *2024*
 
 ## MMath Projects
 
