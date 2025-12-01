@@ -17,9 +17,9 @@ This page is dedicated to those members of staff in the University of Bath's Mat
 1. Check the appropriate level of application using the [Fellowship Category Tool](https://www.advance-he.ac.uk/form/fellowship-decision-tool-2023).
 
 2.
-     i.  If you are a **member of staff**, sign up and the attend the following courses:
-          + **Probationers**:  *01 - Introduction to Probation Pathway to Fellowships (Pathways)* on the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
-          + **Non-Probationers**:  *20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow)* on the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
+     i.  If you are a **member of staff**, sign up and the attend the following courses which can be found on the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/):
+          + **Probationers**:  *01 - Introduction to Probation Pathway to Fellowships (Pathways)*.
+          + **Non-Probationers**:  *20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow)*.
      
      ii.  If you are a **GTA**, complete the *GTA Pathway to Fellowship* course on [Moodle](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16), you will then need to contact your Champion for further mentoring to ensure that you are applying for the appropriate fellowship level.
 
@@ -30,16 +30,16 @@ This page is dedicated to those members of staff in the University of Bath's Mat
      + [Experiential Pathway](https://moodle.bath.ac.uk/course/view.php?id=59370)
      + [GTA Pathway](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16)
 
-5. Make sure you have been enrolled on the [Gateway to Fellowship Submission](https://moodle.bath.ac.uk/course/view.php?id=59371) on Moodle.
+5. Inform your department's HEA Champion about your intention to submit before the *Gateway Deadline*.
 
-6. Inform your department's HEA Champion about your intention to submit before the *Gateway Deadline*.
+6. Make sure you have been enrolled on the [Gateway to Fellowship Submission](https://moodle.bath.ac.uk/course/view.php?id=59371) on Moodle.
 
 7. Work with your department's HEA Champion to draft a fellowship application.
 
-8. Identify your advocates
+8. Identify your advocates.  These should be members of staff who have observed your practices and will be able to verify them.
      + **AFHEA**:  1 advocate
      + **FHEA**:
-          - *Probationers*:  1 advocate and 1 senior observer (senior observer arranges by the Pathways Team)
+          - *Probationers*:  1 advocate and 1 senior observer (senior observers are arrange by the Pathways Team)
           - *Non-Probationers*:  2 advocates
      + **SFHEA**:  1 internal advocate and 1 external advocate.
 
@@ -48,3 +48,76 @@ This page is dedicated to those members of staff in the University of Bath's Mat
 10. Act on the feedback, finalise the application and pass it to advocates to complete their statements.
 
 11. Submit your application before the *Submission Deadline*.
+
+### Dimensions of the Framework
+
+[Professional Standards Framework](documents/PSF23.pdf)
+
+![](images/PSF.png){fig-align="center" width=50%}
+
+::: {layout-ncol=3}
+
+::: {.callout-note icon="false"}
+## Areas of Activity
+*In your context, demonstrate that you*:
+
+**A1**  Design and plan learning activities and/or programmes
+
+**A2**  Teach and/or support learning through appropriate approaches and environments
+
+**A3**  Assess and give feedback for learning
+
+**A4**  Support and guide learners
+
+**A5**  Enhance practice through own continuing professional development
+:::
+
+::: {.callout-note icon="false"}
+## Core Knowledge
+*In your context, demonstrate that you*:
+
+**K1**  How learners learn, generally and within specific subjects
+
+**K2**  Approaches to teaching and/or supporting learning, appropriate for subjects and level of study
+
+**K3**  Critical evaluation as a basis for effective practice
+
+**K4**  Appropriate use of digital and/or other technologies, and resources for learning
+
+**K5**  Requirements for quality assurance and enhancement, and their implications for practice
+
+:::
+
+::: {.callout-note icon="false"}
+## Professional Value
+*In your context, demonstrate that you*:
+
+**V1**  Respect individual learners and diverse groups of learners
+
+**V2**  Promote engagement in learning and equity of opportunity for all to reach their potential
+
+**V3**  Use scholarship, or research, or professional learning, or other evidence-informed approaches as a basis for effective practice
+
+**V4**  Respond to the wider context in which higher education operates, recognising
+implications for practice
+
+**V5**  Collaborate with others to enhance practice
+
+:::
+
+:::
+
+### Summary of Requirements
+
+| Fellowship Level | AFHEA | FHEA | SFHEA |
+|:--:|:--:|:--:|:--:|
+| **Background & Context** | 300 words  | 300 words  | 300 words |
+| **Reflective Accounts**  | 1400 words | 3000 words | 3000 words<br>+ 2 case studies (3000 words) |
+| **References**           | 200 words  | 500 words  | 500 words |
+| **Areas of Activity**    | 2 AA's     | A1--A5      | A1--A5     |
+| **Core Knowledge**       | K1 K2 K3   | K1--K5      | K1--K5     |
+| **Professional Values**  | V1 V3      | V1--V5      | V1--V5     |
+| **Advocates** | 1 advocate | *Probation*: 1 internal, 1 senior<br>*Non-Probation*: 2 internal | 1 internal, 1 external |
+| **Applicant Guidance**   | [PDF](documents/D1_Guidance.pdf) | [PDF](documents/D2_Guidance.pdf) | [PDF](documents/D3_Guidance.pdf) |
+| **Guide to PSF Dimensions** | [PDF](documents/D1_Guide_PSF.pdf) | [PDF](documents/D2_Guide_PSF.pdf)| [PDF](documents/D3_Guide_PSF.pdf) |
+| **Required Forms** | [Moodle](https://moodle.bath.ac.uk/mod/folder/view.php?id=1378053) | [Moodle](https://moodle.bath.ac.uk/mod/folder/view.php?id=1378054) | [Moodle](https://moodle.bath.ac.uk/mod/folder/view.php?id=1378055)
