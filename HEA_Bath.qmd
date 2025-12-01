@@ -112,7 +112,7 @@ implications for practice
 | Fellowship Level | AFHEA | FHEA | SFHEA |
 |:--:|:--:|:--:|:--:|
 | **Background & Context** | 300 words  | 300 words  | 300 words |
-| **Reflective Accounts**  | 1400 words | 3000 words | 3000 words<br>+ 2 case studies (3000 words) |
+| **Reflective Accounts**  | 1400 words | 3000 words | 3000 words<br>+ 2 case studies<br>(3000 words) |
 | **References**           | 200 words  | 500 words  | 500 words |
 | **Areas of Activity**    | 2 AA's     | A1--A5      | A1--A5     |
 | **Core Knowledge**       | K1 K2 K3   | K1--K5      | K1--K5     |
