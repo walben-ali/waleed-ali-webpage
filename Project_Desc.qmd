@@ -11,6 +11,7 @@
 **Recommended Pre-Requisite Units:**
 
 - MA22032 Analysis 2A
+- MA22014 Statistics 2A
 
 **Pre-Requisite Knowledge:** Coding in Python or MATLAB
 
@@ -34,6 +35,7 @@ This project will require a good base knowledge of numerical computations and co
 
 **Pre-Requisite Units:**
 
+- MA22016 Differential Equations & Vector Calculus
 - MA22037 Numerical Analysis
 
 **Pre-Requisite Knowledge:**  Coding in MATLAB or Python
@@ -64,7 +66,7 @@ This process will be used to find solutions to differential and integral equatio
 
 In this project, you will investigate the different forms of the Gamma function in mathematical and historical contexts.
 
-The Gamma function has several forms, each with their own unique properties and applications.  The Gamma function can be defined in terms of integrals, Mellin transformation, limits, factorials, double factorials, trigonometric functions, infinite products, asymptotic approximations, complex residues and many other forms.  This project will aim to understand and derive some of these forms and attempt to form a connection between them, factoring in their uses and historical context in the development of the Gamma function.
+The Gamma function has several forms, each with their own unique properties and applications.  The Gamma function can be defined in terms of integrals, Mellin transforms, limits, factorials, double factorials, trigonometric functions, infinite products, asymptotic approximations, complex residues and many other forms.  This project will aim to understand and derive some of these forms and attempt to form a connection between them, factoring in their uses and historical context in the development of the Gamma function.
 :::
 
 <br>
@@ -83,12 +85,12 @@ The Gamma function has several forms, each with their own unique properties and 
 
 In this project, you will introduce the basic principles of fluid dynamics and flow profiles, deriving them from the momentum equations and reproducing the Navier-Stokes equations.
 
-This project will attempt to derive the Navier-Stokes equations from the governing equations of fluid flow.  This will then be restricted into specific profiles, such as the Poiseuille or Blasius boundary layer flows in different domains.  Bernoulli’s pressure equations will be derived to establish pressure differences in flow profiles and that will lead to flow domain that could generate lift.
+This project will attempt to derive the Navier-Stokes equations from the governing equations of fluid flow.  This will then be restricted into specific profiles, such as the Poiseuille or Blasius boundary layer flows in different domains.  Bernoulli’s pressure equations will be derived to establish pressure differences in flow profiles and that will lead to flow domain that could generate lift, like flow over aerofoils or rotational flows over cylinders.
 :::
 
 <br>
 
-### Theory of Contunued Fractions
+### Theory of Continued Fractions
 
 :::{.callout-note title="Details" collapse=true icon=false}
 
@@ -104,7 +106,7 @@ This project will attempt to derive the Navier-Stokes equations from the governi
 
 In this project, you will establish the theory of continued fractions and investigate their properties.
 
-This will project cover the general theory of continued fractions, investigate the convergence properties, how to generate the fractions themselves and demonstrate some examples, both in typical and atypical form.  For example, the irrational number $\pi$ can be written in many different continued fraction forms:
+This project will cover the general theory of continued fractions, investigate the convergence properties, how to generate the fractions themselves and demonstrate some examples, both in typical and atypical form.  For example, the irrational number $\pi$ can be written in many different continued fraction forms:
 $$\pi=3+\frac{1}{7+\frac{1}{15+\frac{1}{292+\frac{1}{1+\frac{1}{1+\frac{1}{1+\frac{1}{2+...}}}}}}}, \quad \pi=3+\frac{1^2}{6+\frac{3^2}{6+\frac{5^2}{6+\frac{7^2}{6+\frac{9^2}{6+\frac{11^2}{6+...}}}}}}, \quad \pi=\frac{4}{1+\frac{1^2}{3+\frac{2^2}{5+\frac{3^3}{7+\frac{4^2}{9+\frac{4^2}{11+...}}}}}}, \quad \pi=\frac{4}{1+\frac{1^2}{2+\frac{3^2}{2+\frac{5^2}{2+\frac{7^2}{2+\frac{9^2}{2+}}}}}}$$
 These different forms will be investigated, their convergence studied and the different ways in which these can be derived.
 :::
@@ -126,7 +128,7 @@ These different forms will be investigated, their convergence studied and the di
 
 In this project, you will investigate the principles of statistical mechanics and their applications.
 
-You will start from Newtonian mechanics of a single particle and building to a Hamiltonian formulation.  The project will investigate the principles of statistical mechanics in the ensemble statistics and applications in physics, such as the ideal gas law.
+You will start from Newtonian mechanics of a single particle and build to a Hamiltonian formulation.  The project will investigate the principles of statistical mechanics in the ensemble statistics and applications in physics, such as the ideal gas law.
 :::
 
 <br>
@@ -149,6 +151,6 @@ You will start from Newtonian mechanics of a single particle and building to a H
 
 **Project Description:**
 
-This project will investigate different integral transforms and theory applications.
+This project will investigate different integral transforms and their applications.
 There are many differential and integral equations that cannot be solved using conventional means, or if they can be, the process can be tedious.  In this case, integral transformations can be used as a workaround, converting the equation into a different, more easily solvable form, before solving and reversing the transformation.  This project will investigate different possible integrals transforms (such as one-sided and two-sided Laplace, Fourier, Mellin, Weierstrass and others), their properties will be studied and proven and their different uses and applications will be investigated.
 :::
