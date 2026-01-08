@@ -9,14 +9,14 @@ project:
 
 website:
      title: "Waleed A A Ali"
-     site-url: https://
+     site-url: https://walben-ali.github.io/waleed-ali-webpage/
      description: "Waleed Ali's Personal Website"
      open-graph: true
      navbar:
           pinned: true
           left:
-               - text: History
-                 href: History.qmd
+               - text: About
+                 href: About.qmd
                - text: Teaching
                  href: Teaching.qmd
                - text: Talks
