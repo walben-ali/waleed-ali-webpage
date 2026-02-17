@@ -1,8 +1,7 @@
 project:
      type: website
      output-dir: "docs"
-     preview: 
-          port: 22222
+     preview:
           browser: true
           watch-inputs: true
           navigate: true
@@ -48,10 +47,10 @@ format:
      html:
           theme:
                light: [flatly,styleL.scss]
-               dark:  [darkly,styleD.scss]
+               # dark:  [darkly,styleD.scss]
           respect-user-color-scheme: true
           mainfont: 'Calisto MT'
-          fontsize: 1rem
+          fontsize: 1.125rem
           page-layout: full
           code-link: true
           anchor-sections: true
