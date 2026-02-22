@@ -6,6 +6,10 @@
 
 <br>
 <br>
+<<<<<<< HEAD
+=======
+<br>
+>>>>>>> 4a2b13a378cc7dcba1102d888a36fd88d3d8c70e
 
 I am Waleed Ali, a Mathematics Lecturer in the Department of Mathematical Sciences at the University of Bath since 2017.  I specialise in mathematics educational practices, pedagogy and educational reforms in Higher Education.  My previous experience was in fluid dynamics and hydrodynamic stability theory.
 

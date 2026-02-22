@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://walben-ali.github.io/waleed-ali-webpage/Teaching.html</loc>
+<<<<<<< HEAD
     <lastmod>2026-02-22T15:01:35.744Z</lastmod>
+=======
+    <lastmod>2025-10-14T18:48:08.000Z</lastmod>
+>>>>>>> 4a2b13a378cc7dcba1102d888a36fd88d3d8c70e
   </url>
   <url>
     <loc>https://walben-ali.github.io/waleed-ali-webpage/Project_Desc.html</loc>
@@ -10,6 +14,7 @@
   </url>
   <url>
     <loc>https://walben-ali.github.io/waleed-ali-webpage/index.html</loc>
+<<<<<<< HEAD
     <lastmod>2026-02-22T14:52:14.612Z</lastmod>
   </url>
   <url>
@@ -23,6 +28,21 @@
   <url>
     <loc>https://walben-ali.github.io/waleed-ali-webpage/Projects.html</loc>
     <lastmod>2026-02-22T15:01:35.839Z</lastmod>
+=======
+    <lastmod>2026-02-17T14:31:47.374Z</lastmod>
+  </url>
+  <url>
+    <loc>https://walben-ali.github.io/waleed-ali-webpage/About.html</loc>
+    <lastmod>2025-10-19T19:44:20.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://walben-ali.github.io/waleed-ali-webpage/HEA_Bath.html</loc>
+    <lastmod>2026-02-17T15:01:14.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://walben-ali.github.io/waleed-ali-webpage/Projects.html</loc>
+    <lastmod>2026-02-17T14:32:23.108Z</lastmod>
+>>>>>>> 4a2b13a378cc7dcba1102d888a36fd88d3d8c70e
   </url>
   <url>
     <loc>https://walben-ali.github.io/waleed-ali-webpage/Talks.html</loc>

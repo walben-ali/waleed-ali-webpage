@@ -6,6 +6,7 @@ project:
           port: 3141
           watch-inputs: true
           navigate: true
+          port: 3141
 
 website:
      title: "Waleed A A Ali"
@@ -48,6 +49,8 @@ format:
      html:
           theme:
                light: [flatly,styleL.scss]
+               dark:  [darkly,styleD.scss]
+          toggle: true
           respect-user-color-scheme: true
           mainfont: 'Calisto MT'
           fontsize: 1.125rem
@@ -57,7 +60,5 @@ format:
           fig-cap-location: margin
           reference-location: margin
           footnotes-hover: true
-          include-in-header:
-               - toggle.js
 
 editor: source

@@ -14,7 +14,7 @@ This page is dedicated to members of staff and GTAs in the University of Bath's 
 
 :::{.panel-tabset}
 
-### Non-Probationer
+# Non-Probationer
 
 0. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).  This step might not be necessary for those with prior teaching experience.
 
@@ -43,7 +43,7 @@ This page is dedicated to members of staff and GTAs in the University of Bath's 
 
 10. Submit your application before the *Submission Deadline*.
 
-### Probationer
+# Probationer
 
 0. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).  This step might not be necessary for those with prior teaching experience.
 
@@ -71,7 +71,7 @@ This page is dedicated to members of staff and GTAs in the University of Bath's 
 
 10. Submit your application before the *Submission Deadline*.
 
-### GTA
+# GTA
 
 0. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).  This step might not be necessary for those with prior teaching experience.
 
