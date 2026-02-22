@@ -4,7 +4,7 @@
 
 - **Department of Mathematical Sciences**:
      + Y1:  Analysis 1B
-     + Y1:  Foundation & Connections
+     + Y1:  Foundations & Connections
      + Y2:  Ordinary Differential Equations & Control Theory
      + Y2:  Modelling & Dynamical Systems
      + Y3:  Mathematics of Planet Earth
