@@ -1,10 +1,12 @@
 # Talks & Seminars
 
-## Mathematics Education
+## Mathematics Education & Outreach
 
-- Promoting Lecture Engagement in the Sciences (*PoLIS, UoB*)
-- How to Give a Public Talk (*Bath PGR Symposium*)
-- HEA Fellowship in Maths ([*PRiME Seminar Series*](https://prime-bath.github.io/PRiME/seminars.html#HEA-Fellowship-in-Maths))
+- Teaching Mathematical Foundations in Y1 (*BAMC 2026, UEA*)
+- Interactivity in the Classroom (*PoLIS, UoB*)
+- How to Give a Public Talk (*Bath PGR Symposium, UoB*)
+- Outreach Outside of Higher Education (*SAMBa Conference, UoB*)
+- HEA Fellowship in Maths ([*PRiME Seminar Series*](https://prime-bath.github.io/PRiME/seminars.html#HEA-Fellowship-in-Maths)*, UoB*)
 
 ## Pop Culture & General Interest
 
@@ -16,10 +18,6 @@
 - What is the Biggest Number? (*Cardiff PGR Seminars*)
 - How Likely are you to Get Sick? (*Cardiff PGR Seminars*)
 - Quantification of Pizza Baking Properties of Different Cheeses and their Correlation with Cheese Functionality (*Cardiff PGR Seminars*)
-
-## Outreach
-
-- Outreach Outside of Higher Education (*SAMBa Conference, Bath*)
 
 ## Fluid Dyanmics & Hyrdodynamic Stability
 

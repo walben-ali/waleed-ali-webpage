@@ -9,7 +9,7 @@
 
 ## Educational History
 
-- 2012--2016, **Cardiff University**:  PhD, thesis on [*Onset of Global Instabilities in the Plane Channel Flow between Compliant Walls*](documents/WAAAli_Thesis.pdf), supervised by [Christopher Davies](https://www.linkedin.com/in/christopher-davies-flow/) and Dr Maurice J Blount.
+- 2012--2016, **Cardiff University**:  PhD, thesis on [*Onset of Global Instabilities in the Plane Channel Flow between Compliant Walls*](documents/WAAAli_Thesis.pdf), supervised by [Dr Christopher Davies](https://www.linkedin.com/in/christopher-davies-flow/) and Dr Maurice J Blount.
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 ::: {.img-float}
