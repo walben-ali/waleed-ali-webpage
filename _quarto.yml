@@ -3,7 +3,7 @@ project:
      output-dir: "docs"
      preview:
           browser: true
-          port: 3141
+          port: 5387
           watch-inputs: true
           navigate: true
 

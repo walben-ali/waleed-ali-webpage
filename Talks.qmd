@@ -10,18 +10,18 @@
 
 ## Pop Culture & General Interest
 
-- Why Superpowers are Impossible (*Cardiff PGR Seminars*; *UoB Maths Society*)
-- Will we Survive the Zombie Apocalypse? (*Cardiff and Bath PGR Seminars*)
-- The Science of Star Wars (*Cardiff PGR Seminars*; *Techniquest Star Wars Day*; *Cardiff Science Café*)
+- Why Superpowers are Impossible (*Cardiff PGR Seminars*; *UoB Maths Society*; *Student Minds Charity Seminar*)
+- Will we Survive the Zombie Apocalypse? (*Cardiff PGR Seminar*; *Bath PGR Seminar*)
+- The Science of Star Wars (*Cardiff PGR Seminar*; *Techniquest Star Wars Day*; *Cardiff Science Café*)
 - Is Maths Invented or Discovered? (*UoB Philosophy Society*)
 - The Earth is NOT Flat:  Proof by Pizza (*Cardiff Science Café*)
-- What is the Biggest Number? (*Cardiff PGR Seminars*)
-- How Likely are you to Get Sick? (*Cardiff PGR Seminars*)
-- Quantification of Pizza Baking Properties of Different Cheeses and their Correlation with Cheese Functionality (*Cardiff PGR Seminars*)
+- What is the Biggest Number? (*Cardiff PGR Seminar*)
+- How Likely are you to Get Sick? (*Cardiff PGR Seminar*)
+- Quantification of Pizza Baking Properties of Different Cheeses and their Correlation with Cheese Functionality (*Cardiff PGR Seminar*)
 
 ## Fluid Dyanmics & Hyrdodynamic Stability
 
-- Gregynog Mathematics Colloquium (*Gregynog Hall, Tregynon, Wales*)
+- Gregynog Mathematics Colloquium (*Gregynog Hall, Wales*)
 - $11^{\mathrm{th}}$ European Fluid Mechanics Conference (*Seville, Spain*)
 - $50^{\mathrm{th}}$ British Applied Mathematics Colloquium (*Cambridge, UK*)
 - Cardiff Applied Maths Seminars (*Cardiff, Wales*)
