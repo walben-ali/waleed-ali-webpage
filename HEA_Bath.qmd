@@ -1,6 +1,6 @@
 # Applying for Higher Education Academy Fellowship in The Univerity of Bath
 
-This page is dedicated to members of staff and GTAs in the University of Bath's Maths Department who are planning to apply for the Higher Education Academy Fellowship.  The resources on this page will *only* be accessible to those members of staff and GTAs of the University of Bath.  The HEA Champion for the Maths Department will be me.
+This page is dedicated to members of staff and GTAs in the University of Bath's Mathematics Department who are planning to apply for the Higher Education Academy Fellowship.  The resources on this page will *only* be accessible to those members of staff and GTAs of the University of Bath.  The HEA Champion for the Maths Department is [me](mailto:w.a.a.ali@bath.ac.uk).
 
 ### Key Dates 2025-2026
 
@@ -14,17 +14,17 @@ This page is dedicated to members of staff and GTAs in the University of Bath's 
 
 :::{.panel-tabset}
 
-# Non-Probationer
+# Non-Probationer (Experiential)
 
-0. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).  This step might not be necessary for those with prior teaching experience.
+0. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).  This step may not be necessary for those with prior teaching experience.
 
-1. Check the appropriate level of application using the [Fellowship Category Tool](https://www.advance-he.ac.uk/form/fellowship-decision-tool-2023).
+1. Check the appropriate level of application by using the [Fellowship Category Tool](https://www.advance-he.ac.uk/form/fellowship-decision-tool-2023).
 
-2.  On the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/), sign up for and attend:
-     - *20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow)*
+2.  On the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/), sign up for and attend **both** of the following sessions (this is a **mandatory step**):
+     - *20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow),*
      - *21 - Reflective Writing Support (Associate Fellow, Fellow and Senior Fellow)*.
 
-3. Make sure you have been enrolled on the [Experiential Pathway](https://moodle.bath.ac.uk/course/view.php?id=59370) Moodle page (by contacting [acdev](mailto:acdev@bath.ac.uk) or [me](mailto:waaa21@bath.ac.uk)).
+3. Make sure you have been enrolled on the [Experiential Pathway](https://moodle.bath.ac.uk/course/view.php?id=59370) Moodle page (by contacting [acdev](mailto:acdev@bath.ac.uk) or your department's HEA Champion).
 
 4. Inform your department's HEA Champion about your intention to submit before the *Gateway Deadline*.
 
@@ -47,57 +47,51 @@ This page is dedicated to members of staff and GTAs in the University of Bath's 
 
 0. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).  This step might not be necessary for those with prior teaching experience.
 
-1. Check the appropriate level of application using the [Fellowship Category Tool](https://www.advance-he.ac.uk/form/fellowship-decision-tool-2023).
-
-2.  On the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/), sign up for and attend:
+1.  On the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/), sign up for and attend:
      - *20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow)*
      - *21 - Reflective Writing Support (Associate Fellow, Fellow and Senior Fellow)*.
 
-3. Make sure you have been enrolled on the [Probationer Pathway](https://moodle.bath.ac.uk/enrol/index.php?id=59363) Moodle page (by contacting [acdev](mailto:acdev@bath.ac.uk) or [me](mailto:waaa21@bath.ac.uk)).
+2. Make sure you have been enrolled on the [Probationer Pathway](https://moodle.bath.ac.uk/enrol/index.php?id=59363) Moodle page (by contacting [acdev](mailto:acdev@bath.ac.uk).
 
-4. Inform your department's HEA Champion about your intention to submit before the *Gateway Deadline*.
+3. Inform your department's HEA Champion about your intention to submit before the *Gateway Deadline*.
 
-5. Make sure you have been enrolled on the [Gateway to Fellowship Submission](https://moodle.bath.ac.uk/course/view.php?id=59371) on Moodle.
+4. Make sure you have been enrolled on the [Gateway to Fellowship Submission](https://moodle.bath.ac.uk/course/view.php?id=59371) on Moodle.
 
-6. Work with your department's HEA Champion to draft a fellowship application.
+5. Work with your department's HEA Champion to draft a fellowship application.
 
-7. Identify your advocates.  These should be members of staff who have observed your practices and will be able to verify them:
+6. Identify your advocates.  These should be members of staff who have observed your practices and will be able to verify them:
      + **AFHEA**:  1 advocate
      + **FHEA**:   1 advocate and 1 senior observer (senior observers are arrange by the Pathways Team).
 
-8. Write and receive feedback on your application from your department's HEA Champion.
+7. Write and receive feedback on your application from your department's HEA Champion.
 
-9. Act on the feedback, finalise the application and pass it to advocates to complete their statements.
+8. Act on the feedback, finalise the application and pass it to advocates to complete their statements.
 
-10. Submit your application before the *Submission Deadline*.
+9. Submit your application before the *Submission Deadline*.
 
 # GTA
 
-0. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).  This step might not be necessary for those with prior teaching experience.
+1. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).
 
-1. Check the appropriate level of application using the [Fellowship Category Tool](https://www.advance-he.ac.uk/form/fellowship-decision-tool-2023).
+2. Complete the *GTA Pathway to Fellowship* course on [Moodle](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16), you will then need to contact your Champion for further mentoring.  It is recommended that you apply for an **AFHEA** first.  For GTAs, applications for **FHEA** are suitable in exceptional circumstances, particularly when you have much more extensive teaching responsibilities.
 
-2.  Complete the *GTA Pathway to Fellowship* course on [Moodle](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16), you will then need to contact your Champion for further mentoring to ensure that you are applying for the appropriate fellowship level.
+3. Sign up for and attend *21 - Reflective Writing Support (Associate Fellow, Fellow and Senior Fellow)* through the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
 
-Optional:  Sign up for and attend *21 - Reflective Writing Support (Associate Fellow, Fellow and Senior Fellow)* through the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
+4. Make sure you have been enrolled on the [GTA Pathway](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16) Moodle page (by contacting [acdev](mailto:acdev@bath.ac.uk) or your department's HEA Champion.
 
-3. Make sure you have been enrolled on the [GTA Pathway](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16) Moodle page (by contacting [acdev](mailto:acdev@bath.ac.uk) or [me](mailto:waaa21@bath.ac.uk)).
+5. Inform your department's HEA Champion about your intention to submit before the *Gateway Deadline*.
 
-4. Inform your department's HEA Champion about your intention to submit before the *Gateway Deadline*.
+6. Make sure you have been enrolled on the [Gateway to Fellowship Submission](https://moodle.bath.ac.uk/course/view.php?id=59371) on Moodle.
 
-5. Make sure you have been enrolled on the [Gateway to Fellowship Submission](https://moodle.bath.ac.uk/course/view.php?id=59371) on Moodle.
+7. Work with your department's HEA Champion to draft a fellowship application.
 
-6. Work with your department's HEA Champion to draft a fellowship application.
+8. Identify your advocate; this should be a member of staff who has observed your practices and will be able to verify them.
 
-7. Identify your advocates.  These should be members of staff who have observed your practices and will be able to verify them:
-     + **AFHEA**:  1 advocate
-     + **FHEA**:   2 advocates.
+9. Write and receive feedback on your application from your department's HEA Champion.
 
-8. Write and receive feedback on your application from your department's HEA Champion.
+10. Act on the feedback, finalise the application and pass it to advocates to complete their statements.
 
-9. Act on the feedback, finalise the application and pass it to advocates to complete their statements.
-
-10. Submit your application before the *Submission Deadline*.
+11. Submit your application before the *Submission Deadline*.
 
 :::
 
@@ -169,7 +163,7 @@ implications for practice
 | **Areas of Activity**    | 2 A's     | A1--A5      | A1--A5     |
 | **Core Knowledge**       | K1 K2 K3   | K1--K5      | K1--K5     |
 | **Professional Values**  | V1 V3      | V1--V5      | V1--V5     |
-| **Advocates** | 1 advocate | *Probation*: 1 internal, 1 senior<br>*Non-Probation/GTA*: 2 internal | 1 internal, 1 external |
+| **Advocates** | 1 advocate | *Probation*: 1 internal, 1 senior<br>*Non-Probation/GTA*: 2 advocates | 1 internal, 1 external |
 | **Applicant Guidance**   | [PDF](documents/D1_Guidance.pdf) | [PDF](documents/D2_Guidance.pdf) | [PDF](documents/D3_Guidance.pdf) |
 | **Guide to PSF Dimensions** | [PDF](documents/D1_Guide_PSF.pdf) | [PDF](documents/D2_Guide_PSF.pdf)| [PDF](documents/D3_Guide_PSF.pdf) |
 | **Required Forms** | [Moodle](https://moodle.bath.ac.uk/mod/folder/view.php?id=1378053) | [Moodle](https://moodle.bath.ac.uk/mod/folder/view.php?id=1378054) | [Moodle](https://moodle.bath.ac.uk/mod/folder/view.php?id=1378055)
