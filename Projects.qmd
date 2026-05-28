@@ -6,12 +6,18 @@ I am also open to accepting [MMath](https://www.bath.ac.uk/catalogues/2025-2026/
 
 ## BSc Projects
 
-* [The Lorenz System and Applications of Chaos](documents/SH_BSc.pdf), [**Samuel Hancock**](https://www.linkedin.com/in/samuel-hancock-894a87298/), *2024*
+* Modelling Blood Flow in the Circulatory System, **Fylvia Iyeli**, *2026*
 
-* [Approximate Methods for Solving Ordinary Differential Equations](documents/AZ_BSc.pdf), **Andrea Zhang**, *2023*
+* Integral Transforms & Their Applications, **Jasmine Patra**, *2026*
 
-* [A Brief Overview of Special Functions and Their Applications](documents/EL_BSc.pdf), **Emilia Lewis**, *2022*
+* Constructing a Structural Model of Algebra Task Difficulty With Implications for Design of Digital Teaching, **Joseph Taylor**, *2026*
+
+* The Lorenz System and Applications of Chaos, [**Samuel Hancock**](https://www.linkedin.com/in/samuel-hancock-894a87298/), *2024*
+
+* Approximate Methods for Solving Ordinary Differential Equations, **Andrea Zhang**, *2023*
+
+* A Brief Overview of Special Functions and Their Applications, **Emilia Lewis**, *2022*
 
 ## MMath Projects
 
-* [Mathematical Modelling of Issues in the Department for Education](documents/AB_MMath.pdf), [**Addie Baker**](https://samba.ac.uk/student/addie-baker/), *2025*
+* Mathematical Modelling of Issues in the Department for Education, [**Addie Baker**](https://samba.ac.uk/student/addie-baker/), *2025*
