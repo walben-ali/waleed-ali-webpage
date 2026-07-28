@@ -2,6 +2,7 @@
 
 ## Mathematics Education & Outreach
 
+- Engagement in Large Mathematics Cohorts (*LMS Cauchy Club, UoB*)
 - Coding in Maple (*Bath Student Symposia, UoB*)
 - Teaching Mathematical Foundations in Y1 (*BAMC 2026, UEA*)
 - Interactivity in the Classroom (*PoLIS, UoB*)

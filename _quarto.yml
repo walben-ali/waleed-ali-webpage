@@ -9,6 +9,7 @@ project:
 
 website:
      title: "Waleed A A Ali"
+     favicon: images/favicon.ico
      site-url: https://walben-ali.github.io/waleed-ali-webpage/
      description: "Waleed Ali's Personal Website"
      open-graph: true

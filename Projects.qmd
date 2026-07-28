@@ -1,14 +1,14 @@
 # Student Projects
 
-I am open to accepting Y3 students willing to do a [Final Year BSc Project](https://www.bath.ac.uk/catalogues/2025-2026/ma/MA32050.html) on the [following topics](Project_Desc.qmd), other topics are also up for discussion.
+I am open to accepting Y3 students willing to do a [Final Year BSc Project](https://www.bath.ac.uk/catalogues/2026-2027/ma/MA32050.html) on the [following topics](Project_Desc.qmd), other topics are also up for discussion.
 
-I am also open to accepting [MMath](https://www.bath.ac.uk/catalogues/2025-2026/ma/MA40249.html) projects with a topic up for discussion.
+I am also open to accepting [MMath](https://www.bath.ac.uk/catalogues/2026-2027/ma/MA52027.html) projects with a topic up for discussion.
 
 ## BSc Projects
 
-* Modelling Blood Flow in the Circulatory System, **Fylvia Iyeli**, *2026*
+* Modelling Blood Flow in the Circulatory System, [**Fylvia Iyeli**](https://www.linkedin.com/in/fylvia/), *2026*
 
-* Integral Transforms & Their Applications, **Jasmine Patra**, *2026*
+* Integral Transforms & Their Applications, [**Jasmine Patra**](https://www.linkedin.com/in/jasminekpatra/), *2026*
 
 * Constructing a Structural Model of Algebra Task Difficulty With Implications for Design of Digital Teaching, **Joseph Taylor**, *2026*
 

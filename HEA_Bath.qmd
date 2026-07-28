@@ -1,14 +1,14 @@
-# Applying for Higher Education Academy Fellowship in The Univerity of Bath
+# Applying for Higher Education Academy Fellowship in The University of Bath
 
 This page is dedicated to members of staff and GTAs in the University of Bath's Mathematics Department who are planning to apply for the Higher Education Academy Fellowship.  The resources on this page will *only* be accessible to those members of staff and GTAs of the University of Bath.  The HEA Champion for the Maths Department is [me](mailto:w.a.a.ali@bath.ac.uk).
 
-### Key Dates 2025-2026
+### Key Dates 2026-2027
 
-| Review Round | Gateway Deadline | Submission Deadline |
-|:------------:|:----------------:|:-------------------:|
-| Round 1      | 12/09/2025       | 17/10/2025          |
-| Round 2      | 09/01/2026       | 06/02/2026          |
-| Round 3      | 10/04/2026       | 15/05/2026          |
+| Review Round | Gateway Deadline (Noon) | Submission Deadline (Noon) | Results           |
+|:------------:|:-----------------------:|:--------------------------:|:-----------------:|
+| Round 1      | Friday 11/09/2026       | Friday 16/10/2026          | Friday 11/12/2026 |
+| Round 2      | Friday 08/01/2027       | Friday 12/02/2027          | Friday 16/04/2027 |
+| Round 3      | Friday 09/04/2027       | Friday 14/05/2027          | Friday 09/07/2027 |
 
 ## Steps for Application
 
@@ -47,11 +47,11 @@ This page is dedicated to members of staff and GTAs in the University of Bath's 
 
 0. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).  This step might not be necessary for those with prior teaching experience.
 
-1.  On the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/), sign up for and attend:
+1.  On the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/), sign up for and attend **both** of the following sessions (this is a **mandatory step**):
      - *20 - Introduction to Fellowship (Associate Fellow, Fellow and Senior Fellow)*
      - *21 - Reflective Writing Support (Associate Fellow, Fellow and Senior Fellow)*.
 
-2. Make sure you have been enrolled on the [Probationer Pathway](https://moodle.bath.ac.uk/enrol/index.php?id=59363) Moodle page (by contacting [acdev](mailto:acdev@bath.ac.uk).
+2. Make sure you have been enrolled on the [Probationer Pathway](https://moodle.bath.ac.uk/enrol/index.php?id=59363) Moodle page (by contacting [acdev](mailto:acdev@bath.ac.uk) or your department's HEA Champion).
 
 3. Inform your department's HEA Champion about your intention to submit before the *Gateway Deadline*.
 
