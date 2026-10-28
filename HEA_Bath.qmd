@@ -67,11 +67,11 @@ This pathway is for members of staff who *are* on probation.  Bear in mind that 
 
 # GTA Pathway
 
-This pathway is for GTAs (Graduate Teaching Assistants), usually PhD students or research associates.  For the GTA pathway, the recommendation is to apply for **AFHEA**.  Applications for **FHEA** are suitable only in *very* exceptional circumstances, particularly when you have much more extensive teaching responsibilities, like preparation of material and assessment as well as delivering lectures to larger classes.
+This pathway is for GTAs (Graduate Teaching Assistants), usually PhD students or research associates whose role is to deliver material instead of preparing it.  For the GTA pathway, the recommendation is to apply for **AFHEA**.  Applications for **FHEA** are suitable only in *very* exceptional circumstances, particularly when you have much more extensive teaching responsibilities, like preparation of material and assessment as well as delivering lectures to larger classes.
 
 1. Enrol (as a student) and complete [First Steps into Teaching](https://moodle.bath.ac.uk/enrol/index.php?id=58363).
 
-2. Complete the *GTA Pathway to Fellowship* course on [Moodle](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16), you will then need to contact your Champion for further mentoring.  For GTAs, it is recommended that you apply for an **AFHEA**.
+2. Complete the *GTA Pathway to Fellowship* course on [Moodle](https://moodle.bath.ac.uk/course/view.php?id=59695&section=16), you will then need to contact your Champion for further mentoring.
 
 3. Sign up for and attend *21 - Reflective Writing Support (Associate Fellow, Fellow and Senior Fellow)* through the [CLT website](https://teachinghub.bath.ac.uk/events/categories/pathways/).
 
@@ -161,7 +161,7 @@ implications for practice
 | **Areas of Activity**    | 2 A's       | A1--A5      | A1--A5     |
 | **Core Knowledge**       | K1 K2 K3    | K1--K5      | K1--K5     |
 | **Professional Values**  | V1 V3       | V1--V5      | V1--V5     |
-| **Advocates**            | 1 advocate | *Probation*: 1 internal, 1 senior<br>*Non-Probation/GTA*: 2 advocates | 1 internal, 1 external |
+| **Advocates**            | 1 advocate | *Early Career*: 1 internal, 1 senior<br>*Experiential*: 2 advocates | 1 internal, 1 external |
 | **Applicant Guidance**   | [PDF](documents/D1_Guidance.pdf) | [PDF](documents/D2_Guidance.pdf) | [PDF](documents/D3_Guidance.pdf) |
 | **Guide to PSF Dimensions** | [PDF](documents/D1_Guide_PSF.pdf) | [PDF](documents/D2_Guide_PSF.pdf)| [PDF](documents/D3_Guide_PSF.pdf) |
 | **Required Forms** | [Moodle](https://moodle.bath.ac.uk/mod/folder/view.php?id=1378053) | [Moodle](https://moodle.bath.ac.uk/mod/folder/view.php?id=1378054) | [Moodle](https://moodle.bath.ac.uk/mod/folder/view.php?id=1378055)
